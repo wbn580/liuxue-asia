@@ -82,25 +82,11 @@ section{padding:54px 0}
 .final .btn{background:#fff;color:var(--teal)}
 .disc{color:var(--muted);font-size:12.5px;text-align:center;margin-top:18px;max-width:720px;margin-left:auto;margin-right:auto}
 footer{border-top:1px solid var(--line);padding:30px 0;color:var(--muted);font-size:13px;text-align:center;margin-top:30px}
-.bot{position:fixed;right:22px;bottom:22px;z-index:40;display:flex;align-items:center;gap:10px;background:linear-gradient(135deg,var(--teal),var(--jade));color:#fff;padding:12px 18px;border-radius:999px;box-shadow:0 10px 30px rgba(14,142,142,.4);cursor:pointer;font-weight:700}
-.bot .dot{width:9px;height:9px;border-radius:50%;background:#7cf6d0;box-shadow:0 0 0 0 rgba(124,246,208,.7);animation:pulse 1.8s infinite}
+
 @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(124,246,208,.7)}70%{box-shadow:0 0 0 10px rgba(124,246,208,0)}100%{box-shadow:0 0 0 0 rgba(124,246,208,0)}}
 @media(max-width:780px){.grid{grid-template-columns:repeat(2,1fr)}.steps,.whygrid{grid-template-columns:1fr}.why,.final{padding:30px}}
 </style>
-<script>
-  function openChat(){ var p=document.getElementById('chatPanel'); var b=document.getElementById('chatBubble'); if(p){p.classList.remove('hidden');p.classList.add('flex')} if(b)b.classList.add('hidden') }
-  function closeChat(){ var p=document.getElementById('chatPanel'); var b=document.getElementById('chatBubble'); if(p){p.classList.add('hidden');p.classList.remove('flex')} if(b)b.classList.remove('hidden') }
-  function addMsg(text, who){
-    var body=document.getElementById('chatBody'); if(!body)return;
-    var wrap=document.createElement('div');
-    if(who==='me'){wrap.className='flex justify-end';wrap.innerHTML='<div class=\"bg-teal text-white rounded-2xl rounded-tr-sm px-3.5 py-2.5 text-[13.5px] leading-relaxed max-w-[85%]\">'+text+'</div>'}
-    else{wrap.className='flex gap-2';wrap.innerHTML='<div class=\"shrink-0 h-7 w-7 rounded-full bg-teal/15 flex items-center justify-center text-[13px]\">🧭</div><div class=\"bg-white rounded-2xl rounded-tl-sm px-3.5 py-2.5 text-[13.5px] text-ink/80 leading-relaxed shadow-sm max-w-[85%]\">'+text+'</div>'}
-    body.appendChild(wrap);body.scrollTop=body.scrollHeight
-  }
-  function botReply(){setTimeout(function(){addMsg('你好！先告诉我你的学校、收到的通知类型和大概情况，我帮你判断 deadline 和可以走的路径 🌏','bot')},500)}
-  function sendMsg(){var i=document.getElementById('chatInput');var v=i.value.trim();if(!v)return;addMsg(v,'me');i.value='';botReply()}
-  function quickAsk(t){addMsg(t,'me');botReply()}
-</script>
+
 </head>
 <body>
 
@@ -115,7 +101,7 @@ footer{border-top:1px solid var(--line);padding:30px 0;color:var(--muted);font-s
   <p class="sub">新加坡、香港、日本、韩国、马来西亚大学的 Show Cause、撤课退费、开除申诉、学术不端、签证影响……每一种都有应对路径，也都有严格的截止时间。把你的情况发给 <b>亚洲留学助手</b>，先免费帮你判断还剩几天、能走哪条路。</p>
   <div class="urgency">⏰ 多数申诉窗口只有 10–20 个工作日，错过基本无法挽回——越早动手，选择越多。</div>
   <div class="cta-row">
-    <a class="btn lg" href="#chat">免费判断我的情况 →</a>
+    <a class="btn lg" href="https://apply.liuxue.asia">免费判断我的情况 →</a>
     <a class="btn ghost lg" href="#scenarios">看看我属于哪种</a>
   </div>
   <div class="trustline"><span>✓ <b>合规为先</b>，不造假不夸大</span><span>✓ 熟悉<b>亚洲五国各校程序</b>与申诉时间线</span><span>✓ <b>全程中文</b>，持牌合作团队跟进</span></div>
@@ -125,14 +111,14 @@ footer{border-top:1px solid var(--line);padding:30px 0;color:var(--muted);font-s
   <div class="h2">你是不是正遇到这些？</div>
   <p class="lead">点开和你情况最接近的那一个，亚洲留学助手帮你判断 deadline 和下一步。</p>
   <div class="grid">
-    <a class="card" href="#chat"><div class="ic">📕</div><h3>挂科 / 成绩申诉</h3><p>补考、remark、重修还是申诉？</p></a>
-    <a class="card" href="#chat"><div class="ic">⚠️</div><h3>Show Cause 学业警告</h3><p>怎么写回复、怎么保住学籍</p></a>
-    <a class="card" href="#chat"><div class="ic">🚪</div><h3>被开除 / 劝退申诉</h3><p>Exclusion、Re-admission</p></a>
-    <a class="card" href="#chat"><div class="ic">💸</div><h3>撤课退费 / 留位费</h3><p>跨校退费、拒签退费</p></a>
-    <a class="card" href="#chat"><div class="ic">🔍</div><h3>学术不端 / 抄袭指控</h3><p>misconduct、AI 检测被查</p></a>
-    <a class="card" href="#chat"><div class="ic">🏥</div><h3>特殊考虑 / 缺考延期</h3><p>Special Consideration / EC</p></a>
-    <a class="card" href="#chat"><div class="ic">🛂</div><h3>签证受影响 / 学签状态</h3><p>Student Pass、在留资格</p></a>
-    <a class="card" href="#chat"><div class="ic">🔁</div><h3>转学 / Release Letter</h3><p>跨国转学、转学分</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">📕</div><h3>挂科 / 成绩申诉</h3><p>补考、remark、重修还是申诉？</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">⚠️</div><h3>Show Cause 学业警告</h3><p>怎么写回复、怎么保住学籍</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">🚪</div><h3>被开除 / 劝退申诉</h3><p>Exclusion、Re-admission</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">💸</div><h3>撤课退费 / 留位费</h3><p>跨校退费、拒签退费</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">🔍</div><h3>学术不端 / 抄袭指控</h3><p>misconduct、AI 检测被查</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">🏥</div><h3>特殊考虑 / 缺考延期</h3><p>Special Consideration / EC</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">🛂</div><h3>签证受影响 / 学签状态</h3><p>Student Pass、在留资格</p></a>
+    <a class="card" href="https://apply.liuxue.asia"><div class="ic">🔁</div><h3>转学 / Release Letter</h3><p>跨国转学、转学分</p></a>
   </div>
 </div></section>
 
@@ -172,16 +158,15 @@ footer{border-top:1px solid var(--line);padding:30px 0;color:var(--muted);font-s
 <section id="chat"><div class="wrap"><div class="final">
   <h2>把你的情况发给亚洲留学助手，先免费判断还剩几天</h2>
   <p>不确定属于哪种、该怎么办？一句话说清现状，亚洲留学助手帮你理清 deadline 和下一步。</p>
-  <div style="margin-bottom:16px">
-    <script src="https://chat.unilink.co/w.js" data-site="liuxue-asia" data-bot-name="亚洲留学助手" data-lang="zh-CN" data-lead-track="academic-crisis" data-country="ASIA" data-lead-text="你好同学，收到学校的处分或警告通知了？别慌——把情况简单说一下，你在哪个国家哪所学校，我帮你判断还剩几天、能走哪条申诉路径。" data-color="#0E8E8E" data-accent="#13A88A" data-channel="crisis" async></script>
-  </div>
+
 </div>
 <p class="disc">亚洲留学网提供的是信息与对接服务，不构成法律意见；不承诺任何申诉结果，不协助伪造或不实材料。具体以你所在学校的政策与通知为准。</p>
 </div></section>
 
 <footer><div class="wrap">亚洲留学网 · Liuxue.Asia · 学业危机 · 申诉 · 撤课退费 · 签证</div></footer>
 
-<div class="bot" onclick="document.getElementById('chat').scrollIntoView({behavior:'smooth'})"><span class="dot"></span>亚洲留学助手 · 在线</div>
+<!-- 留资入口中心化组件（吸底两按钮 + 桌面药丸 + 文中图片卡） -->
+<script src="https://chat.liuxue.asia/lead.js" data-lang="zh-CN" data-apply-base="https://apply.liuxue.asia" data-color="#0E8E8E" data-accent="#13A88A" async></script>
 
 </body>
 </html>

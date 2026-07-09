@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(a => ({
+    params: { slug: a.slug },
+    props: { article: a },
+  }));
+}
+
+const { article } = Astro.props;
+const { data, body } = article;
+const { Content } = await article.render();
+
+const categoryMap: Record<string, string> = {
+  'comparison': '横向对比',
+  'singapore': '新加坡留学',
+  'hongkong': '香港留学',
+  'japan': '日本留学',
+  'korea': '韩国留学',
+  'malaysia': '马来西亚留学',
+  'thailand': '泰国留学',
+  'macau': '澳门留学',
+  'decision': '决策问答',
+};
+---
+
+<BaseLayout title={`${data.title} · 亚洲留学网`} description={data.description}>
+<Header />
+<main class="max-w-3xl mx-auto px-5 py-12 md:py-16">
+  <div class="mb-8">
+    {data.category && <span class="text-[13px] text-teal font-semibold tracking-wider">{categoryMap[data.category] || data.category}</span>}
+    <h1 class="font-serif font-black text-[32px] md:text-[42px] tracking-tight mt-2 mb-3 leading-tight">{data.title}</h1>
+    <p class="text-ink/55 text-[16px] leading-relaxed">{data.description}</p>
+    <div class="flex items-center gap-4 mt-4 text-[13px] text-ink/40">
+      <time datetime={data.publishDate.toISOString()}>{data.publishDate.toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric'})}</time>
+      {data.readingTime && <span>阅读 {data.readingTime} 分钟</span>}
+      {data.country && <span>{data.country}</span>}
+    </div>
+  </div>
+  <article class="prose prose-lg max-w-none prose-headings:font-serif prose-headings:font-bold prose-a:text-teal prose-img:rounded-2xl prose-img:shadow-md">
+    <Content />
+  </article>
+</main>
+<Footer />
+</BaseLayout>
+
+<style>
+  .prose h2 { font-size: 1.5em; margin-top: 2em; margin-bottom: 0.5em; color: #1A2238; }
+  .prose h3 { font-size: 1.2em; margin-top: 1.5em; color: #0E8E8E; }
+  .prose p { line-height: 1.85; color: #334; }
+  .prose strong { color: #1A2238; }
+  .prose ul, .prose ol { line-height: 1.85; }
+  .prose blockquote { border-left: 3px solid #0E8E8E; background: #FBF7F0; padding: 0.8em 1.2em; border-radius: 0 8px 8px 0; }
+</style>

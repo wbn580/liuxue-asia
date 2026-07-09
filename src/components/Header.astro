@@ -1,0 +1,72 @@
+---
+const navItems = [
+  { href: '#countries', label: '五国速览' },
+  { href: '#compare', label: '维度对比' },
+  { href: '#explore', label: '目的地' },
+  { href: '#faq', label: '热门问答' },
+  { href: '#about', label: '关于' },
+];
+---
+
+<header class="sticky top-0 z-40 glass border-b border-black/5">
+  <div class="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between">
+    <a href="#top" class="flex items-center gap-2.5">
+      <span class="relative inline-flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-teal to-jade text-white font-serif font-black text-lg shadow-lg shadow-teal/20">亚</span>
+      <span class="leading-tight">
+        <span class="block font-serif font-bold text-[17px] tracking-tight">亚洲留学网</span>
+        <span class="block text-[10px] text-ink/45 tracking-[.25em] -mt-0.5">LIUXUE.ASIA</span>
+      </span>
+    </a>
+    <nav class="hidden xl:flex items-center gap-7 text-[14px] text-ink/70 font-medium">
+      {navItems.map(item => (
+        <a href={item.href} class="hover:text-teal transition">{item.label}</a>
+      ))}
+    </nav>
+    <button onclick="openChat()" class="inline-flex items-center gap-2 rounded-full bg-ink text-white text-[13px] font-medium px-4 py-2 hover:bg-teal transition shadow-sm">
+      <span class="h-1.5 w-1.5 rounded-full bg-jade animate-pulse2"></span>选我的目的地
+    </button>
+  </div>
+</header>
+
+<script>
+  function openChat() {
+    const panel = document.getElementById('chatPanel');
+    const bubble = document.getElementById('chatBubble');
+    if (panel) { panel.classList.remove('hidden'); panel.classList.add('flex'); }
+    if (bubble) bubble.classList.add('hidden');
+  }
+  function closeChat() {
+    const panel = document.getElementById('chatPanel');
+    const bubble = document.getElementById('chatBubble');
+    if (panel) { panel.classList.add('hidden'); panel.classList.remove('flex'); }
+    if (bubble) bubble.classList.remove('hidden');
+  }
+</script>
+
+<style>
+
+
+  /* MENU-CROWD-FIX-20260708: keep dense desktop menus from wrapping or crushing CTA buttons. */
+  header nav a,
+  .nav-links a,
+  .nav-link,
+  .nav-cta,
+  .site-nav a {
+    white-space: nowrap;
+  }
+  .nav-links,
+  .site-nav {
+    min-width: 0;
+  }
+  .site-nav.flex-wrap,
+  nav.site-nav.flex-wrap {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav.flex-wrap::-webkit-scrollbar,
+  nav.site-nav.flex-wrap::-webkit-scrollbar {
+    display: none;
+  }
+</style>

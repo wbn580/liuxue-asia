@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { font-family: 'Noto Sans SC', system-ui, sans-serif; }
+
+  ::-webkit-scrollbar { width: 10px; }
+  ::-webkit-scrollbar-thumb { background: #cdd3df; border-radius: 6px; }
+}
+
+@layer components {
+  .glass { backdrop-filter: blur(12px); background: rgba(255,255,255,.72); }
+  .card-hover { transition: transform .35s cubic-bezier(.2,.8,.2,1), box-shadow .35s; }
+  .card-hover:hover { transform: translateY(-6px); box-shadow: 0 24px 48px -20px rgba(26,34,56,.28); }
+  .tag { font-size: 12px; padding: 3px 10px; border-radius: 999px; font-weight: 500; }
+  .grad-text { background: linear-gradient(120deg,#0E8E8E,#13A88A 40%,#F5A623); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .dim-row { transition: background .25s; }
+  .dim-row:hover { background: rgba(14,142,142,.05); }
+  .grad-text-light { background: linear-gradient(120deg,#3FE3C8,#5BD6B8 38%,#FFC766); -webkit-background-clip: text; background-clip: text; color: transparent; }
+}
+
+/* Hero full-bleed photo */
+.hero-photo {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image: url('/hero.jpg');
+  background-size: cover;
+  background-position: center 35%;
+  background-repeat: no-repeat;
+  transform: scale(1.04);
+  animation: heroZoom 24s ease-in-out infinite alternate;
+}
+.hero-scrim {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background:
+    radial-gradient(820px 540px at 14% 18%, rgba(14,142,142,.40), transparent 62%),
+    radial-gradient(720px 520px at 90% 30%, rgba(255,107,94,.22), transparent 60%),
+    linear-gradient(115deg, rgba(8,22,30,.92) 0%, rgba(9,28,34,.74) 38%, rgba(12,32,40,.50) 66%, rgba(10,26,34,.66) 100%),
+    linear-gradient(180deg, rgba(7,18,26,.55) 0%, rgba(7,18,26,.18) 40%, rgba(7,18,26,.78) 100%);
+}
+
+@keyframes heroZoom { from { transform: scale(1.04); } to { transform: scale(1.12); } }

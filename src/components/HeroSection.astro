@@ -1,0 +1,55 @@
+<section id="top" class="relative overflow-hidden flex items-center min-h-[640px] md:min-h-[92vh]">
+  <div class="hero-photo" aria-hidden="true"></div>
+  <div class="hero-scrim" aria-hidden="true"></div>
+
+  <div class="max-w-6xl mx-auto px-5 pt-24 pb-20 md:pt-28 md:pb-28 relative z-10 w-full">
+    <div class="inline-flex items-center gap-2 rounded-full border border-white/25 bg-white/10 backdrop-blur-sm px-3.5 py-1.5 text-[12.5px] text-white/90 font-medium mb-7">
+      <span class="h-1.5 w-1.5 rounded-full bg-coral animate-pulse2"></span>横向对比 · 不替你拿主意，帮你看清差别
+    </div>
+    <h1 class="font-serif font-black leading-[1.12] text-[40px] sm:text-[56px] md:text-[68px] tracking-tight max-w-4xl text-white" style="text-shadow:0 2px 28px rgba(0,0,0,.45)">
+      该去<span class="grad-text-light">亚洲哪个国家</span><br class="hidden sm:block">留学？一次看明白。
+    </h1>
+    <p class="mt-6 text-[16px] md:text-[18.5px] text-white/85 max-w-2xl leading-relaxed" style="text-shadow:0 1px 16px rgba(0,0,0,.4)">
+      新加坡、香港、日本、韩国、马来西亚——在性价比、离家距离、文化相近度之间纠结？
+      我们把五个亚洲目的地放在同一张尺子上，按学费、授课语言、工作移民、文化适应、申请难度逐项拆开，让你的选择有据可依。
+    </p>
+    <div class="mt-9 flex flex-col sm:flex-row gap-3.5">
+      <button onclick="openChat()" class="group inline-flex items-center justify-center gap-2 rounded-full bg-teal text-white text-[15px] font-semibold px-7 py-3.5 hover:bg-jade transition shadow-xl shadow-black/30">
+        开始选目的地
+        <svg class="w-4 h-4 group-hover:translate-x-1 transition" fill="none" stroke="currentColor" stroke-width="2.4" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14m-6-6 6 6-6 6"/></svg>
+      </button>
+      <a href="#compare" class="inline-flex items-center justify-center gap-2 rounded-full bg-white/10 backdrop-blur-sm text-white text-[15px] font-semibold px-7 py-3.5 border border-white/30 hover:bg-white/20 hover:border-white/50 transition">
+        先看维度对比
+      </a>
+    </div>
+    <div class="mt-10 flex flex-wrap items-center gap-x-7 gap-y-3 text-[13px] text-white/75">
+      <span class="flex items-center gap-2"><svg class="w-4 h-4 text-amber" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m5 13 4 4L19 7"/></svg>性价比高，预算可控</span>
+      <span class="flex items-center gap-2"><svg class="w-4 h-4 text-amber" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m5 13 4 4L19 7"/></svg>航程短，回家方便</span>
+      <span class="flex items-center gap-2"><svg class="w-4 h-4 text-amber" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m5 13 4 4L19 7"/></svg>文化相近，适应更快</span>
+    </div>
+  </div>
+
+  <!-- Floating country badges -->
+  <div class="pointer-events-none absolute right-4 top-28 hidden lg:flex flex-col gap-3 z-10">
+    <div class="animate-floaty" style="animation-delay:0s">
+      <div class="rounded-2xl bg-white/12 backdrop-blur-md border border-white/20 shadow-xl px-4 py-2.5 text-[13px] font-medium text-white flex items-center gap-2"><span class="text-xl">🇸🇬</span> 新加坡 · 亚洲学术高地</div>
+    </div>
+    <div class="animate-floaty ml-8" style="animation-delay:.8s">
+      <div class="rounded-2xl bg-white/12 backdrop-blur-md border border-white/20 shadow-xl px-4 py-2.5 text-[13px] font-medium text-white flex items-center gap-2"><span class="text-xl">🇯🇵</span> 日本 · 文化与就业兼得</div>
+    </div>
+    <div class="animate-floaty ml-2" style="animation-delay:1.6s">
+      <div class="rounded-2xl bg-white/12 backdrop-blur-md border border-white/20 shadow-xl px-4 py-2.5 text-[13px] font-medium text-white flex items-center gap-2"><span class="text-xl">🇲🇾</span> 马来西亚 · 极致性价比</div>
+    </div>
+    <div class="animate-floaty ml-10" style="animation-delay:2.4s">
+      <div class="rounded-2xl bg-white/12 backdrop-blur-md border border-white/20 shadow-xl px-4 py-2.5 text-[13px] font-medium text-white flex items-center gap-2"><span class="text-xl">🇹🇭</span> 泰国 · 高性价比英文授课</div>
+    </div>
+    <div class="animate-floaty ml-4" style="animation-delay:3.2s">
+      <div class="rounded-2xl bg-white/12 backdrop-blur-md border border-white/20 shadow-xl px-4 py-2.5 text-[13px] font-medium text-white flex items-center gap-2"><span class="text-xl">🇭🇰</span> 香港 · 国际化中英通用</div>
+    </div>
+    <div class="animate-floaty ml-1" style="animation-delay:4s">
+      <div class="rounded-2xl bg-white/12 backdrop-blur-md border border-white/20 shadow-xl px-4 py-2.5 text-[13px] font-medium text-white flex items-center gap-2"><span class="text-xl">🇲🇴</span> 澳门 · 中西交融小而精</div>
+    </div>
+  </div>
+
+  <div class="absolute inset-x-0 bottom-0 h-24 z-[2] pointer-events-none" style="background:linear-gradient(180deg,transparent,#ffffff)"></div>
+</section>

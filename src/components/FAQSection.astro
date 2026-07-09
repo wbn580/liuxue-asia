@@ -1,0 +1,42 @@
+---
+const faqs = [
+  { q: '预算一年 15 万人民币，能去亚洲哪些国家留学？', a: '这个预算在亚洲覆盖面相当广。马来西亚、日本、韩国普遍可以覆盖学费加生活费且有余量；香港与新加坡视专业和城市，通常更接近预算上限甚至需要额外储备。建议先确定专业方向，再用预算反推可选范围——和助手聊几句就能得到针对你情况的清单。' },
+  { q: '不会日语/韩语，还能去日本或韩国读书吗？', a: '可以。日韩都设有面向国际学生的全英文授课项目（日本有 SGU 计划，韩国有 GSIS 等），不强制要求语言成绩即可申请。但专业选择会变窄，且日常生活与实习仍建议储备基础语言。如果完全零语言基础又想要英语环境，新加坡、香港、马来西亚会更省心。' },
+  { q: '香港和新加坡，哪个更适合本科申请？', a: '两地名校都竞争激烈。香港离家更近、文化更相近、毕业后留港工作通道相对清晰；新加坡学术声誉极强、城市国际化程度高，但名额少、要求高、费用也更高。看重就业衔接与回家方便选香港，看重纯学术招牌且预算充足可考虑新加坡。' },
+  { q: '马来西亚的文凭含金量怎么样？回国/去其他国家认可吗？', a: '马来西亚有不少英美澳名校的分校以及双联（双学位）课程，毕业拿的是合作院校的学位，认可度取决于具体院校与项目而非「马来西亚」这个标签本身。它常被当作高性价比跳板。选校时重点看院校资质与最终授予学位的机构，而不是只看地点。' },
+  { q: '想毕业后留下工作，亚洲哪个国家机会更友好？', a: '香港对毕业生提供相对友好的留港求职安排，是热门选项；新加坡机会多但工作准证门槛偏高；日本就业市场稳定，但语言能力往往是决定性因素；韩国同样高度看重韩语水平。把「目标行业 + 语言投入意愿」放在一起判断，比单看政策更靠谱。' },
+  { q: '在亚洲读书，离家近真的有那么重要吗？', a: '对很多家庭来说很实际：航程短意味着寒暑假往返成本低、突发情况能更快回家、时差小方便沟通。香港、日本、韩国从国内多数城市出发都只要几小时，机票与时间成本明显低于欧美。如果你或家人看重「能常回家」，这是亚洲方向的核心优势之一。' },
+  { q: '日本和韩国留学，生活成本差别大吗？', a: '两国大城市（东京、首尔）生活成本都不低，但都比香港、新加坡温和，且都有较多兼职与奖学金机会缓解压力。地方城市会便宜不少。整体上日韩在「学费亲民 + 文化体验」上有优势，把住宿城市纳入预算一起算更准确。' },
+  { q: '英语成绩一般，更适合申请亚洲哪个国家？', a: '如果英语是短板又想避开高门槛，日韩的语言授课项目（先读语言再升学）是一条路径，马来西亚部分院校的语言要求也较为灵活。若坚持英语授课且分数有限，可优先看马来西亚以及部分接受双录取的项目。建议先确认目标专业的具体语言要求，再决定补哪门语言。' },
+  { q: '家长最担心的安全问题，这几个国家怎么样？', a: '新加坡、日本、香港的社会治安在全球范围内都属于较好水平，韩国、马来西亚主要城市也总体平稳。比起国别，更建议关注具体城市与校区环境、住宿安全和当地华人/留学生社群的支持网络——这些对日常安全感的影响往往更直接。' },
+  { q: '2026/2027 年入学，现在开始准备来得及吗？', a: '来得及，但越早越从容。亚洲各国申请季节奏不同（如日本多为秋季入学、港新硕士提前一年开放），语言考试、文书与材料准备通常需要数月。先锁定 1–2 个目的地与目标学期，再倒排时间表，是最稳妥的做法。把你的目标年份告诉助手，可以帮你列出关键节点。' },
+];
+---
+
+<section id="faq" class="bg-sand py-16 md:py-20">
+  <div class="max-w-3xl mx-auto px-5">
+    <div class="text-center mb-11">
+      <p class="text-teal font-semibold text-[13px] tracking-wider mb-2">真实疑问 · 直接回答</p>
+      <h2 class="font-serif font-black text-[30px] md:text-[38px] tracking-tight">大家都在纠结的问题</h2>
+    </div>
+
+    <div class="space-y-3">
+      {faqs.map(faq => (
+        <details class="group rounded-2xl bg-white border border-black/5 px-5 py-1 open:shadow-md transition">
+          <summary class="flex items-center justify-between gap-4 py-4 font-medium text-[15.5px]">{faq.q}<span class="qa-icon shrink-0 text-teal text-2xl leading-none transition-transform">+</span></summary>
+          <p class="pb-4 text-[14px] text-ink/65 leading-relaxed">{faq.a}</p>
+        </details>
+      ))}
+    </div>
+
+    <div class="text-center mt-10">
+      <button onclick="openChat()" class="inline-flex items-center gap-2 rounded-full bg-teal text-white text-[15px] font-semibold px-7 py-3.5 hover:bg-jade transition shadow-lg shadow-teal/25">没找到你的问题？直接问助手</button>
+    </div>
+  </div>
+</section>
+
+<style>
+  details > summary { list-style: none; cursor: pointer; }
+  details > summary::-webkit-details-marker { display: none; }
+  details[open] .qa-icon { transform: rotate(45deg); }
+</style>

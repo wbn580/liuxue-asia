@@ -1,0 +1,64 @@
+<!-- Bubble -->
+<div id="chatBubble" class="fixed bottom-5 right-5 z-50">
+  <button onclick="openChat()" class="group relative flex items-center justify-center h-15 w-15 rounded-full bg-gradient-to-br from-teal to-jade text-white shadow-xl shadow-teal/40 hover:scale-105 transition" style="height:60px;width:60px">
+    <span class="absolute top-1 left-1 h-3.5 w-3.5 rounded-full bg-jade border-2 border-white"><span class="absolute inset-0 rounded-full bg-jade animate-pulse2"></span></span>
+    <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M8 10h8M8 14h5m-6 7 3.5-3H18a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H6a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h1v3Z"/></svg>
+  </button>
+</div>
+
+<!-- Panel -->
+<div id="chatPanel" class="fixed bottom-5 right-5 z-50 w-[92vw] max-w-[380px] h-[560px] max-h-[80vh] hidden flex-col rounded-3xl bg-white shadow-2xl border border-black/10 overflow-hidden">
+  <div class="bg-gradient-to-r from-teal to-jade text-white px-5 py-4 flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <div class="relative h-9 w-9 rounded-full bg-white/20 flex items-center justify-center text-lg">🧭</div>
+      <div>
+        <div class="font-semibold text-[15px] flex items-center gap-2">亚洲留学助手 <span class="h-1.5 w-1.5 rounded-full bg-white animate-pulse2"></span></div>
+        <div class="text-[11px] text-white/75">在线 · 帮你选目的地</div>
+      </div>
+    </div>
+    <button onclick="closeChat()" class="text-white/80 hover:text-white text-2xl leading-none">&times;</button>
+  </div>
+  <div id="chatBody" class="flex-1 overflow-y-auto px-4 py-4 space-y-3 bg-sand/50">
+    <div class="flex gap-2">
+      <div class="shrink-0 h-7 w-7 rounded-full bg-teal/15 flex items-center justify-center text-[13px]">🧭</div>
+      <div class="bg-white rounded-2xl rounded-tl-sm px-3.5 py-2.5 text-[13.5px] text-ink/80 leading-relaxed shadow-sm max-w-[85%]">
+        你好呀！我是亚洲留学助手。在新加坡、香港、日本、韩国、马来西亚之间纠结？告诉我你的<strong>预算、专业方向和最在意的点</strong>（比如离家近、性价比、就业），我帮你缩小到最合适的目的地 🌏
+      </div>
+    </div>
+  </div>
+  <div class="px-3 pb-2 flex flex-wrap gap-1.5">
+    <button onclick="quickAsk('预算15万能去哪？')" class="text-[12px] rounded-full border border-teal/30 text-teal px-3 py-1 hover:bg-teal/5">预算15万能去哪？</button>
+    <button onclick="quickAsk('不会日韩语能去日韩吗？')" class="text-[12px] rounded-full border border-teal/30 text-teal px-3 py-1 hover:bg-teal/5">不会日韩语行吗？</button>
+    <button onclick="quickAsk('性价比最高的是哪个？')" class="text-[12px] rounded-full border border-teal/30 text-teal px-3 py-1 hover:bg-teal/5">性价比最高？</button>
+  </div>
+  <div class="border-t border-black/5 p-3 flex items-center gap-2">
+    <input id="chatInput" type="text" placeholder="说说你的情况……" class="flex-1 rounded-full bg-sand border border-black/5 px-4 py-2.5 text-[14px] focus:outline-none focus:ring-2 focus:ring-teal/30" onkeydown="if(event.key==='Enter')sendMsg()">
+    <button onclick="sendMsg()" class="h-10 w-10 rounded-full bg-teal text-white flex items-center justify-center hover:bg-jade transition shrink-0">
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m5 12 14-7-7 14-2-5-5-2Z"/></svg>
+    </button>
+  </div>
+</div>
+
+<script>
+  function addMsg(text, who){
+    const body = document.getElementById('chatBody');
+    if (!body) return;
+    const wrap = document.createElement('div');
+    if(who==='me'){
+      wrap.className='flex justify-end';
+      wrap.innerHTML='<div class="bg-teal text-white rounded-2xl rounded-tr-sm px-3.5 py-2.5 text-[13.5px] leading-relaxed max-w-[85%]">'+text+'</div>';
+    } else {
+      wrap.className='flex gap-2';
+      wrap.innerHTML='<div class="shrink-0 h-7 w-7 rounded-full bg-teal/15 flex items-center justify-center text-[13px]">🧭</div><div class="bg-white rounded-2xl rounded-tl-sm px-3.5 py-2.5 text-[13.5px] text-ink/80 leading-relaxed shadow-sm max-w-[85%]">'+text+'</div>';
+    }
+    body.appendChild(wrap); body.scrollTop = body.scrollHeight;
+  }
+  function botReply(){
+    setTimeout(()=>addMsg('这是预览演示。正式上线后我会结合你的预算、专业与偏好，给出针对性的亚洲目的地对比与建议 🙂', 'bot'), 500);
+  }
+  function sendMsg(){
+    const i=document.getElementById('chatInput'); const v=i.value.trim(); if(!v)return;
+    addMsg(v,'me'); i.value=''; botReply();
+  }
+  function quickAsk(t){ addMsg(t,'me'); botReply(); }
+</script>

@@ -1,0 +1,51 @@
+---
+const countries = [
+  { flag: '🇸🇬', name: '新加坡', subtitle: '亚洲顶尖 · 双语环境', desc: '英语授课为主，学术声誉强，安全宜居。适合追求高学术含金量、不排斥较高生活成本的同学。', tags: [{label:'英语授课',cls:'bg-teal/10 text-teal'},{label:'学术高地',cls:'bg-amber/15 text-amber'},{label:'生活费偏高',cls:'bg-ink/5 text-ink/60'}] },
+  { flag: '🇭🇰', name: '香港', subtitle: '国际化 · 中英通用', desc: '距离近、文化最相近，名校云集，毕业后有较友好的留港工作通道。适合想兼顾文凭与就业的同学。', tags: [{label:'离家最近',cls:'bg-coral/12 text-coral'},{label:'中英双语',cls:'bg-teal/10 text-teal'},{label:'留港机会',cls:'bg-amber/15 text-amber'}] },
+  { flag: '🇯🇵', name: '日本', subtitle: '文化深度 · 就业稳', desc: '学费亲民、文化体验丰富，理工与动漫设计等专业强。语言门槛是关键，准备日语会更顺。', tags: [{label:'学费友好',cls:'bg-amber/15 text-amber'},{label:'就业前景',cls:'bg-teal/10 text-teal'},{label:'需备日语',cls:'bg-ink/5 text-ink/60'}] },
+  { flag: '🇰🇷', name: '韩国', subtitle: '活力都市 · 奖学金多', desc: '奖学金机会多、传媒与商科有特色，校园氛围年轻。适合喜欢都市生活、能投入语言学习的同学。', tags: [{label:'奖学金多',cls:'bg-teal/10 text-teal'},{label:'传媒商科',cls:'bg-coral/12 text-coral'},{label:'需备韩语',cls:'bg-ink/5 text-ink/60'}] },
+  { flag: '🇲🇾', name: '马来西亚', subtitle: '极致性价比 · 英联课程', desc: '学费与生活费门槛低，英语授课、不少英美澳院校设有分校或双联课程。适合预算优先的同学。', tags: [{label:'最省钱',cls:'bg-coral/12 text-coral'},{label:'英语授课',cls:'bg-teal/10 text-teal'},{label:'双联课程',cls:'bg-amber/15 text-amber'}] },
+];
+---
+
+<section id="countries" class="max-w-6xl mx-auto px-5 py-16 md:py-20">
+  <div class="flex items-end justify-between flex-wrap gap-3 mb-9">
+    <div>
+      <p class="text-teal font-semibold text-[13px] tracking-wider mb-2">五个目的地 · 一眼速览</p>
+      <h2 class="font-serif font-black text-[30px] md:text-[36px] tracking-tight">先认识候选名单</h2>
+    </div>
+    <p class="text-ink/50 text-[14px] max-w-sm">每个国家都有最适合的人。先看它们的「人设」，再决定深入了解谁。</p>
+  </div>
+
+  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+    {countries.map((c, i) => (
+      <article class="card-hover rounded-3xl border border-black/5 bg-white p-6 relative overflow-hidden">
+        <div class={`absolute -top-8 -right-8 h-28 w-28 rounded-full ${i%2===0 ? 'bg-teal/10' : 'bg-coral/10'}`}></div>
+        <div class="flex items-center gap-3 mb-4 relative">
+          <span class="text-4xl">{c.flag}</span>
+          <div>
+            <h3 class="font-serif font-bold text-[19px]">{c.name}</h3>
+            <p class="text-[12px] text-ink/45">{c.subtitle}</p>
+          </div>
+        </div>
+        <p class="text-[14px] text-ink/65 leading-relaxed mb-4">{c.desc}</p>
+        <div class="flex flex-wrap gap-2">
+          {c.tags.map(t => <span class={`tag ${t.cls}`}>{t.label}</span>)}
+        </div>
+      </article>
+    ))}
+
+    <!-- CTA card -->
+    <article class="card-hover rounded-3xl bg-gradient-to-br from-ink to-[#2a3556] text-white p-6 flex flex-col justify-between relative overflow-hidden">
+      <div class="absolute -bottom-10 -right-10 h-36 w-36 rounded-full bg-teal/30 blur-2xl"></div>
+      <div class="relative">
+        <h3 class="font-serif font-bold text-[20px] mb-2">还是拿不定主意？</h3>
+        <p class="text-[14px] text-white/70 leading-relaxed">告诉助手你的预算、专业方向和顾虑，几句话帮你缩小到 1–2 个最合适的目的地。</p>
+      </div>
+      <button onclick="openChat()" class="relative mt-5 inline-flex items-center gap-2 rounded-full bg-white text-ink text-[14px] font-semibold px-5 py-2.5 hover:bg-amber hover:text-white transition w-fit">
+        和助手聊聊
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.4" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14m-6-6 6 6-6 6"/></svg>
+      </button>
+    </article>
+  </div>
+</section>

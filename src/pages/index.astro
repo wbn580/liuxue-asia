@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import HeroSection from '../components/HeroSection.astro';
+import CountryCardsSection from '../components/CountryCardsSection.astro';
+import DimensionCompareSection from '../components/DimensionCompareSection.astro';
+import ExploreSection from '../components/ExploreSection.astro';
+import FAQSection from '../components/FAQSection.astro';
+import AboutSection from '../components/AboutSection.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<BaseLayout
+  title="亚洲留学网 | 新加坡·香港·日本·韩国·马来西亚 横向对比，帮你选对目的地"
+  description="该去亚洲哪个国家留学？亚洲留学网横向对比新加坡、香港、日本、韩国、马来西亚的学费、授课语言、工作移民前景、文化适应与申请难度。"
+>
+
+<Header />
+<main>
+  <HeroSection />
+  <CountryCardsSection />
+  <DimensionCompareSection />
+  <ExploreSection />
+  <FAQSection />
+  <AboutSection />
+</main>
+<Footer />
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+}
+
+const { title, description, ogImage } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="bytedance-verification-code" content="VYilj9e8zsPxjIKaCELd" />
+  <meta name="baidu-site-verification" content="codeva-ZOedixSCfD" />
+  <title>{title}</title>
+  <meta name="description" content={description}>
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <meta property="og:type" content="website">
+  {ogImage && <meta property="og:image" content={ogImage}>}
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <script src="https://go.compares.cheap/f.js" data-site="liuxue-asia" async></script>
+</head>
+<body class="bg-white text-ink antialiased">
+  <slot />
+  <!-- 留资入口中心化组件（吸底两按钮 + 桌面药丸 + 文中图片卡） -->
+  <script src="https://chat.liuxue.asia/lead.js" data-lang="zh-CN" data-country="cn" data-apply-base="https://apply.liuxue.asia" data-color="#0E8E8E" data-accent="#13A88A" async></script>
+</body>
+</html>
