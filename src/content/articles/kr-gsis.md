@@ -2,7 +2,7 @@
 title: "不会韩语能去韩国留学吗？GSIS英文授课项目全解析"
 description: "零韩语基础也能申请韩国名校——GSIS（国际研究学院）提供全英文授课的硕士和博士项目，覆盖国际商务、国际关系、韩国研究等方向。本文整理开设GSIS的主要院校、申请条件和利与弊。"
 category: "korea"
-publishDate: 2026-06-18
+publishDate: 2026-06-18T00:00:00Z
 readingTime: 6
 tags: ["GSIS", "英文授课", "韩国留学", "零韩语"]
 ---

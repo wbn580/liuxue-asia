@@ -2,7 +2,7 @@
 title: "2026新加坡公立大学与私立大学对比：中国学生怎么选？"
 description: "新加坡公立大学和私立大学在入学门槛、学费成本和学位认可度方面存在明显差异。本文从六个维度对比两类院校，帮助中国学生和家长根据自身成绩、预算和职业目标做出合理选择。"
 category: "singapore"
-publishDate: 2026-06-18
+publishDate: 2026-06-18T00:00:00Z
 readingTime: 8
 tags: ["公立大学", "私立大学", "院校对比", "择校建议"]
 hideFromHome: true

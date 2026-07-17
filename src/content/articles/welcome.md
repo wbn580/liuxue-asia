@@ -2,7 +2,7 @@
 title: "欢迎来到亚洲留学网 — 你的亚洲留学第一站"
 description: "亚洲留学网横向对比新加坡、香港、日本、韩国、马来西亚五大留学目的地，从学费、语言、就业、文化、申请难度五个维度帮你选对方向。"
 category: "decision"
-publishDate: 2026-06-18
+publishDate: 2026-06-18T00:00:00Z
 readingTime: 5
 tags: ["留学决策", "亚洲留学"]
 ---

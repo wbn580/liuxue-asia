@@ -2,7 +2,7 @@
 title: "亚洲五国留学横向对比：新加坡vs香港vs日本vs韩国vs马来西亚（2026版）"
 description: "把新加坡、香港、日本、韩国和马来西亚放在同一套框架下比较——从费用、语言、院校含金量、毕业生政策和文化适应五个维度逐一拆解。不是笼统地说哪个好，而是帮你在具体维度上看清差异、做出判断。"
 category: "comparison"
-publishDate: 2026-06-18
+publishDate: 2026-06-18T00:00:00Z
 readingTime: 9
 tags: ["亚洲留学", "横向对比", "新加坡", "香港", "日本", "韩国", "马来西亚"]
 hideFromHome: true

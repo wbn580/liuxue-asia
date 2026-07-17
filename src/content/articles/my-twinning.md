@@ -2,7 +2,7 @@
 title: "马来西亚双联课程详解：低成本拿英美澳大学文凭"
 description: "双联课程（Twinning Programme）是马来西亚最具特色的留学模式——在马来西亚完成部分或全部课程，拿到英美澳合作大学的学位证书。本文梳理双联课程的类型、主流合作院校和与直接赴英美澳留学的费用对比。"
 category: "malaysia"
-publishDate: 2026-06-18
+publishDate: 2026-06-18T00:00:00Z
 readingTime: 7
 tags: ["双联课程", "英美澳文凭", "马来西亚留学", "留学费用"]
 ---
