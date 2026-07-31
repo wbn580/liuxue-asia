@@ -197,6 +197,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"asia-universities-new-programme-cadence-polyu.md": {
+	id: "asia-universities-new-programme-cadence-polyu.md";
+  slug: "asia-universities-new-programme-cadence-polyu";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "hk-8universities.md": {
 	id: "hk-8universities.md";
   slug: "hk-8universities";
@@ -249,6 +256,13 @@ declare module 'astro:content' {
 "hongkong-subdegree-mainland-students.md": {
 	id: "hongkong-subdegree-mainland-students.md";
   slug: "hongkong-subdegree-mainland-students";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"hongkong-vs-singapore-masters-budget.md": {
+	id: "hongkong-vs-singapore-masters-budget.md";
+  slug: "hongkong-vs-singapore-masters-budget";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -452,6 +466,13 @@ declare module 'astro:content' {
 "my-twinning.md": {
 	id: "my-twinning.md";
   slug: "my-twinning";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"polyu-vs-cityu-vs-hkbu-2027.md": {
+	id: "polyu-vs-cityu-vs-hkbu-2027.md";
+  slug: "polyu-vs-cityu-vs-hkbu-2027";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
