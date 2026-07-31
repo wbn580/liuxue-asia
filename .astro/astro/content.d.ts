@@ -141,6 +141,13 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"articles": {
+"asia-budget-ranking.md": {
+	id: "asia-budget-ranking.md";
+  slug: "asia-budget-ranking";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "asia-compare.md": {
 	id: "asia-compare.md";
   slug: "asia-compare";
@@ -148,9 +155,44 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"asia-cross-major-master.md": {
+	id: "asia-cross-major-master.md";
+  slug: "asia-cross-major-master";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "asia-decision.md": {
 	id: "asia-decision.md";
   slug: "asia-decision";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"asia-english-taught-distribution.md": {
+	id: "asia-english-taught-distribution.md";
+  slug: "asia-english-taught-distribution";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"asia-master-duration-graduation-timing.md": {
+	id: "asia-master-duration-graduation-timing.md";
+  slug: "asia-master-duration-graduation-timing";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"asia-part-time-work-while-studying.md": {
+	id: "asia-part-time-work-while-studying.md";
+  slug: "asia-part-time-work-while-studying";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"asia-post-study-work-rights.md": {
+	id: "asia-post-study-work-rights.md";
+  slug: "asia-post-study-work-rights";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -190,6 +232,62 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"hongkong-part-time-master.md": {
+	id: "hongkong-part-time-master.md";
+  slug: "hongkong-part-time-master";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"hongkong-research-master-and-phd.md": {
+	id: "hongkong-research-master-and-phd.md";
+  slug: "hongkong-research-master-and-phd";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"hongkong-subdegree-mainland-students.md": {
+	id: "hongkong-subdegree-mainland-students.md";
+  slug: "hongkong-subdegree-mainland-students";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"japan-daigakuin-research-student-vs-master.md": {
+	id: "japan-daigakuin-research-student-vs-master.md";
+  slug: "japan-daigakuin-research-student-vs-master";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"japan-eju-and-internal-exam.md": {
+	id: "japan-eju-and-internal-exam.md";
+  slug: "japan-eju-and-internal-exam";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"japan-language-school-selection.md": {
+	id: "japan-language-school-selection.md";
+  slug: "japan-language-school-selection";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"japan-senmon-gakko-vs-university.md": {
+	id: "japan-senmon-gakko-vs-university.md";
+  slug: "japan-senmon-gakko-vs-university";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"japan-transfer-admission.md": {
+	id: "japan-transfer-admission.md";
+  slug: "japan-transfer-admission";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "jp-cost.md": {
 	id: "jp-cost.md";
   slug: "jp-cost";
@@ -225,6 +323,34 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"korea-language-institute.md": {
+	id: "korea-language-institute.md";
+  slug: "korea-language-institute";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"korea-seoul-vs-local-universities.md": {
+	id: "korea-seoul-vs-local-universities.md";
+  slug: "korea-seoul-vs-local-universities";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"korea-topik-levels.md": {
+	id: "korea-topik-levels.md";
+  slug: "korea-topik-levels";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"korea-transfer-admission.md": {
+	id: "korea-transfer-admission.md";
+  slug: "korea-transfer-admission";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "kr-gsis.md": {
 	id: "kr-gsis.md";
   slug: "kr-gsis";
@@ -249,6 +375,55 @@ declare module 'astro:content' {
 "kr-scholarship.md": {
 	id: "kr-scholarship.md";
   slug: "kr-scholarship";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"liuxue-asia-1159.md": {
+	id: "liuxue-asia-1159.md";
+  slug: "liuxue-asia-1159";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"liuxue-asia-1161.md": {
+	id: "liuxue-asia-1161.md";
+  slug: "liuxue-asia-1161";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"liuxue-asia-1162.md": {
+	id: "liuxue-asia-1162.md";
+  slug: "liuxue-asia-1162";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"liuxue-asia-1164.md": {
+	id: "liuxue-asia-1164.md";
+  slug: "liuxue-asia-1164";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"malaysia-degree-chinese-certification.md": {
+	id: "malaysia-degree-chinese-certification.md";
+  slug: "malaysia-degree-chinese-certification";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"malaysia-public-vs-private-university.md": {
+	id: "malaysia-public-vs-private-university.md";
+  slug: "malaysia-public-vs-private-university";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"malaysia-student-visa-emgs.md": {
+	id: "malaysia-student-visa-emgs.md";
+  slug: "malaysia-student-visa-emgs";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -347,6 +522,34 @@ declare module 'astro:content' {
 "sg-vs-hk.md": {
 	id: "sg-vs-hk.md";
   slug: "sg-vs-hk";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"singapore-alevel-vs-ib.md": {
+	id: "singapore-alevel-vs-ib.md";
+  slug: "singapore-alevel-vs-ib";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"singapore-low-age-with-parent.md": {
+	id: "singapore-low-age-with-parent.md";
+  slug: "singapore-low-age-with-parent";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"singapore-private-partnership-degree.md": {
+	id: "singapore-private-partnership-degree.md";
+  slug: "singapore-private-partnership-degree";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"singapore-research-vs-taught-master.md": {
+	id: "singapore-research-vs-taught-master.md";
+  slug: "singapore-research-vs-taught-master";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
