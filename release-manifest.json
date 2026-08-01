@@ -7,29 +7,37 @@
       "title": "2026海外本科、硕士与博士申请核心差异解析",
       "release_date": "2026-02-10",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "4bbc64e980d5b9e4a88826dbcf0ff3c911169ea619d478277ee33a568145649b"
+      "source_sha256": "4bbc64e980d5b9e4a88826dbcf0ff3c911169ea619d478277ee33a568145649b",
+      "publication_datetime": "2026-02-10T14:20:35Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "liuxue-asia-1159",
       "title": "2026海外留学一年总费用估算：学费与生活费怎么算",
       "release_date": "2026-05-07",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "22a6b032c26b311c8d4c7b8587a5a239f4ba770aa9e262d472e44b20e5a31d52"
+      "source_sha256": "22a6b032c26b311c8d4c7b8587a5a239f4ba770aa9e262d472e44b20e5a31d52",
+      "publication_datetime": "2026-05-07T07:50:31Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "liuxue-asia-1162",
       "title": "2026海外留学毕业后工签与长期居留路径指南",
       "release_date": "2026-05-21",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "978040fa2d19603e2323b31447384559ef3077f4fe718466abd474543f4028ef"
+      "source_sha256": "978040fa2d19603e2323b31447384559ef3077f4fe718466abd474543f4028ef",
+      "publication_datetime": "2026-05-21T12:55:19Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
       "slug": "liuxue-asia-1161",
       "title": "2026年海外留学申请时间线与关键截止：一份可执行的规划日历",
       "release_date": "2026-06-27",
       "source": "workbuddy-bulk-repair-v1",
-      "source_sha256": "34682096718e649906dec0c784af0a282b252b56902767ba6fa8b3efecb3fc18"
+      "source_sha256": "34682096718e649906dec0c784af0a282b252b56902767ba6fa8b3efecb3fc18",
+      "publication_datetime": "2026-06-27T03:29:37Z",
+      "modified_datetime": "2026-07-30T12:00:00Z"
     }
   ],
-  "generated_at": "2026-07-30T13:55:31Z"
+  "generated_at": "2026-07-31T13:43:38.019628+00:00"
 }
