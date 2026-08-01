@@ -12,6 +12,13 @@
       "modified_datetime": "2026-07-30T12:00:00Z"
     },
     {
+      "slug": "liuxue-asia-1160",
+      "title": "2027海外主要留学城市性价比对比：从预算到生活适配",
+      "release_date": "2026-03-02",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "a9c17cb646aa0bd6a30b5982b00e74562caa796eb8d75c138b402395c03f9bff"
+    },
+    {
       "slug": "liuxue-asia-1159",
       "title": "2026海外留学一年总费用估算：学费与生活费怎么算",
       "release_date": "2026-05-07",
@@ -19,6 +26,13 @@
       "source_sha256": "22a6b032c26b311c8d4c7b8587a5a239f4ba770aa9e262d472e44b20e5a31d52",
       "publication_datetime": "2026-05-07T07:50:31Z",
       "modified_datetime": "2026-07-30T12:00:00Z"
+    },
+    {
+      "slug": "liuxue-asia-1163",
+      "title": "2027年出国留学前必须确认的几件事：从签证条款到落地衔接的系统核查",
+      "release_date": "2026-05-14",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "92b6e08c9672401ecfd120e5f39b549d2d57186fcaa2afecebcec4847c43d12e"
     },
     {
       "slug": "liuxue-asia-1162",
@@ -39,5 +53,5 @@
       "modified_datetime": "2026-07-30T12:00:00Z"
     }
   ],
-  "generated_at": "2026-07-31T13:43:38.019628+00:00"
+  "generated_at": "2026-08-01T12:38:19Z"
 }
