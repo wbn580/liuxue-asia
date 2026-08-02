@@ -12,6 +12,7 @@ language: zh
 tags:
 - 海外主要留学城市性价比对比
 ogImage: https://img.ulec.com.cn/edu/physics-undergrad-grad-2026-china-students-deep-dive-img0-2026-6000x4000.jpeg
+category: singapore
 ---
 
 选择留学城市时，只看学校排名远远不够。同一个国家内部，不同城市之间的房租、交通、日常开销和毕业后机会可能相差悬殊。本文从成本结构、校园适配和生活质量三个维度，梳理亚洲、大洋洲、欧洲和北美主要留学城市的性价比特征，帮助你在预算和长期规划之间找到平衡。
