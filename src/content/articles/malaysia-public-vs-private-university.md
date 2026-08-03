@@ -5,6 +5,7 @@ category: "malaysia"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["马来西亚公立", "马来西亚私立", "授课语言", "申请门槛", "国际生"]
+ogImage: "https://img.ulec.com.cn/留学/malaysia-public-vs-private-university-2026-1880x1253.jpg"
 ---
 
 马来西亚高教分公立和私立两大块，很多学生只盯着私立和双联课程，忽略公立体系。两者在门槛、语言和定位上差别明显。这篇专讲公立与私立的对比。

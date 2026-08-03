@@ -5,6 +5,7 @@ category: "japan"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["日本编入学", "插班", "专科生", "本科转学", "赴日留学"]
+ogImage: "https://img.ulec.com.cn/留学/japan-transfer-admission-2026-1743x1300.jpg"
 ---
 
 国内专科生、本科在读生想去日本读大学，不一定从大一重读。"编入学"（即插班）让你带着已修学分进日本大学的二、三年级。这篇专讲转学与插班这类内容，全站此前没有。

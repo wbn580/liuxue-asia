@@ -5,6 +5,7 @@ category: "malaysia"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["马来西亚签证", "EMGS", "体检", "贴签", "学生准证"]
+ogImage: "https://img.ulec.com.cn/留学/malaysia-student-visa-emgs-2026-1880x1253.jpg"
 ---
 
 马来西亚学生签证走一套叫 EMGS（Education Malaysia Global Services）的集中系统，和很多国家"自己递使馆"不同。流程环节多，容易在某步卡住。这篇是马来西亚签证专篇。

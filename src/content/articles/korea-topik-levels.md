@@ -5,6 +5,7 @@ category: "korea"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["TOPIK", "韩国留学", "语言要求", "韩语", "入学门槛"]
+ogImage: "https://img.ulec.com.cn/留学/korea-topik-levels-2026-1880x1253.jpg"
 ---
 
 走韩语路线去韩国留学，绕不开 TOPIK（韩国语能力考试）。但"TOPIK 几级够用"没有统一答案，因学历层次和专业差异很大。这篇讲韩语路线的具体标尺，不重复英授项目内容。

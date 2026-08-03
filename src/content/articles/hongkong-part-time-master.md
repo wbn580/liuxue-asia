@@ -5,6 +5,7 @@ category: "hongkong"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["香港兼读", "在职硕士", "跨境通勤", "签证身份", "学历认证"]
+ogImage: "https://img.ulec.com.cn/留学/hongkong-part-time-master-2026-1880x1111.jpg"
 ---
 
 全站默认全日制脱产，但很多在珠三角工作的人想读香港硕士又不想辞职，兼读制（Part-time）是现实路径。这篇是完全不同的读者场景：在职、跨境、不脱产。

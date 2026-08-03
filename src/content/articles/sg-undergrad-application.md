@@ -5,6 +5,7 @@ category: "singapore"
 publishDate: 2026-06-12T00:00:00Z
 readingTime: 8
 tags: ["本科申请", "高考", "国际课程", "预科", "中国学生"]
+ogImage: "https://img.ulec.com.cn/留学/sg-undergrad-application-2026-1880x1111.jpg"
 ---
 
 ## 申请路径概览

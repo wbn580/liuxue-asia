@@ -5,6 +5,7 @@ category: "singapore"
 publishDate: 2026-06-17T00:00:00Z
 readingTime: 8
 tags: ["费用预算", "学费", "生活费", "新加坡"]
+ogImage: "https://img.ulec.com.cn/留学/sg-cost-breakdown-2026-1880x1111.jpg"
 ---
 
 ## 费用总体框架

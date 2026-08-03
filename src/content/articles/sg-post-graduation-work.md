@@ -5,6 +5,7 @@ category: "singapore"
 publishDate: 2026-06-14T00:00:00Z
 readingTime: 8
 tags: ["工作签证", "就业前景", "毕业后规划", "EP", "S Pass"]
+ogImage: "https://img.ulec.com.cn/留学/sg-post-graduation-work-2026-1880x1253.jpg"
 ---
 
 ## 毕业后留新工作的路径

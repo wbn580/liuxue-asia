@@ -5,6 +5,7 @@ category: "malaysia"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 6
 tags: ["马来西亚费用", "留学预算", "性价比"]
+ogImage: "https://img.ulec.com.cn/留学/my-cost-2026-1880x1111.jpg"
 ---
 
 ## 一、整体费用框架

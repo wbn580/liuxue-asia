@@ -5,6 +5,7 @@ category: "hongkong"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["香港副学士", "内地生", "副学位", "升学出口", "衔接本科"]
+ogImage: "https://img.ulec.com.cn/留学/hongkong-subdegree-mainland-students-2026-1880x1111.jpg"
 ---
 
 香港本科全攻略只讲学士通道，但高考没到本科线、又想来香港的学生，副学士（副学位）是另一条平行路。它开放但有门槛，衔接学士也有竞争。这篇专讲副学位这条路径。

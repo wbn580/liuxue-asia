@@ -5,6 +5,7 @@ category: "korea"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 7
 tags: ["韩国生活", "韩国就业", "留学生活", "毕业生签证"]
+ogImage: "https://img.ulec.com.cn/留学/kr-life-career-2026-1880x1253.jpg"
 ---
 
 ## 一、韩国留学生的日常生活

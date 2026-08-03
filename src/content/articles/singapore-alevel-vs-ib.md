@@ -5,6 +5,7 @@ category: "singapore"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["新加坡A水准", "新加坡IB", "本地升学", "大学录取", "中学课程"]
+ogImage: "https://img.ulec.com.cn/留学/singapore-alevel-vs-ib-2026-1880x1111.jpg"
 ---
 
 这篇面向已在新加坡读中学的家庭：孩子走 A-Level 还是 IB，直接决定本地大学的申请逻辑。和"从国内出发申新加坡"的路径不同，这篇讲已经在新加坡体系内的学生怎么分流。

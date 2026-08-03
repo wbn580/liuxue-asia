@@ -5,6 +5,7 @@ category: "malaysia"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 8
 tags: ["马来西亚留学", "院校申请", "留学费用"]
+ogImage: "https://img.ulec.com.cn/留学/my-guide-2026-1880x1253.jpg"
 ---
 
 ## 一、马来西亚高校的三个类型

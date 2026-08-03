@@ -5,6 +5,7 @@ category: "japan"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 9
 tags: ["SGU项目", "英文授课", "日本留学", "日语零基础", "2026"]
+ogImage: "https://img.ulec.com.cn/留学/jp-sgu-2026-1880x1253.jpg"
 ---
 
 # 不会日语能去日本留学吗？2026年SGU英文项目详解

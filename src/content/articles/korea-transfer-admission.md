@@ -5,6 +5,7 @@ category: "korea"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["韩国编入", "插班", "学分互认", "专科生", "本科转学"]
+ogImage: "https://img.ulec.com.cn/留学/korea-transfer-admission-2026-1880x1253.jpg"
 ---
 
 国内专科生、本科在读生想去韩国，常见路径是"编入学"（即插班）。韩国编入和日本的编入概念相近，但具体规则有差别。这篇专讲韩国转学内容，全站此前没有。

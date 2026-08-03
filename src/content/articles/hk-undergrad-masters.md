@@ -5,6 +5,7 @@ category: "hongkong"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["香港本科申请", "香港硕士申请", "内地学生", "申请条件", "申请材料"]
+ogImage: "https://img.ulec.com.cn/留学/hk-undergrad-masters-2026-1880x1111.jpg"
 ---
 
 # 2026内地学生申请香港本科与硕士：条件、路径与材料清单

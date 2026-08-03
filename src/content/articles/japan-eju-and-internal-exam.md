@@ -5,6 +5,7 @@ category: "japan"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["日本留考", "EJU", "校内考", "本科申请", "赴日留学"]
+ogImage: "https://img.ulec.com.cn/留学/japan-eju-and-internal-exam-2026-1743x1300.jpg"
 ---
 
 日本本科对国际生，基本不走"递交材料直接录"，而是两道关：先考留考（EJU，日本留学试验），再闯目标校的校内考。很多学生只盯留考分数，忽略校内考才是临门一脚。这篇把两道关拆开讲。

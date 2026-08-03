@@ -5,6 +5,7 @@ category: "hongkong"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["香港MPhil", "香港博士", "研究计划", "奖学金", "导师沟通"]
+ogImage: "https://img.ulec.com.cn/留学/hongkong-research-master-and-phd-2026-1880x1111.jpg"
 ---
 
 香港的硕士博士，很多人只知道授课型（taught master），但研究型硕士（MPhil）和博士（PhD）是另一条线，带奖学金、要套导师、重研究计划。这篇补上研究型，和授课型内容分工。

@@ -5,6 +5,7 @@ category: "singapore"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["留学攻略", "院校选择", "申请流程", "费用预算"]
+ogImage: "https://img.ulec.com.cn/留学/sg-study-guide-2026-1880x1253.jpg"
 ---
 
 ## 为什么选择新加坡

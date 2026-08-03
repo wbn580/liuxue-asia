@@ -5,6 +5,7 @@ category: "hongkong"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["香港留学", "留学攻略", "香港名校", "留学申请", "2026"]
+ogImage: "https://img.ulec.com.cn/留学/hk-guide-2026-1880x1253.jpg"
 ---
 
 # 2026香港留学全攻略：名校、费用与申请全解析
