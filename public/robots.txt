@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liuxue.asia/sitemap-index.xml

@@ -400,6 +400,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"liuxue-asia-1160.md": {
+	id: "liuxue-asia-1160.md";
+  slug: "liuxue-asia-1160";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "liuxue-asia-1161.md": {
 	id: "liuxue-asia-1161.md";
   slug: "liuxue-asia-1161";
@@ -410,6 +417,13 @@ declare module 'astro:content' {
 "liuxue-asia-1162.md": {
 	id: "liuxue-asia-1162.md";
   slug: "liuxue-asia-1162";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"liuxue-asia-1163.md": {
+	id: "liuxue-asia-1163.md";
+  slug: "liuxue-asia-1163";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
