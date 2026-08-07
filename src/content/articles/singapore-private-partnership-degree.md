@@ -5,7 +5,7 @@ category: "singapore"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["新加坡私立", "合作办学", "学历认证", "雇主认知", "合作学位"]
-ogImage: "https://img.ulec.com.cn/留学/singapore-private-partnership-degree-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.asia/留学/singapore-private-partnership-degree-2026-1880x1111.jpg"
 ---
 
 新加坡私立院校很多不自己颁学位，而是和海外大学合作，发海外合作方的学位。这类"合作学位"在认可度和就业口径上和公立体系不同。这篇专攻合作学位这一种形式。

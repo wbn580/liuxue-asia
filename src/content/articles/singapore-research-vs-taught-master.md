@@ -5,7 +5,7 @@ category: "singapore"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["新加坡硕士", "研究型", "授课型", "奖学金", "导师制"]
-ogImage: "https://img.ulec.com.cn/留学/singapore-research-vs-taught-master-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.asia/留学/singapore-research-vs-taught-master-2026-1880x1111.jpg"
 ---
 
 新加坡硕士普遍被当成"授课型一年制"，但还有一条研究型硕士（by Research）的线，很多学生不知道。两者在钱、导师、出路上的差别很大。这篇补上研究型这条线。

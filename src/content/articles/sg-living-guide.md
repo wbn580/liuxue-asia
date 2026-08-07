@@ -5,7 +5,7 @@ category: "singapore"
 publishDate: 2026-06-15T00:00:00Z
 readingTime: 8
 tags: ["留学生活", "住宿", "交通", "新加坡生活"]
-ogImage: "https://img.ulec.com.cn/留学/sg-living-guide-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/sg-living-guide-2026-1880x1253.jpg"
 ---
 
 ## 安顿第一步：住宿选择

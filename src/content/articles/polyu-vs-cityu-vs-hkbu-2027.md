@@ -6,7 +6,7 @@ country: "香港"
 publishDate: 2026-07-26T05:30:00Z
 readingTime: 9
 tags: ["香港留学", "选校决策", "香港理工大学", "授课型硕士"]
-ogImage: "https://img.ulec.com.cn/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg"
+ogImage: "https://img.liuxue.asia/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg"
 ---
 
 香港理工大学（The Hong Kong Polytechnic University，PolyU）在 QS World University Rankings 2027 中位列全球第 50 名，这是校方新闻稿于 2026 年 6 月公布的数字。但把它和城大、浸会放在一起说「同梯队」时，需要先分清两件事：排名是院校层面的公开指标，而你实际要做的决定发生在课程层面——学制、学分、学费口径、入学学科范围、语言线、申请轮次。这六项才是三校之间真正可比、且各校都会在官网公布的字段。本文给出理大这六项的实际值，以及逐校核对的方法。
@@ -31,7 +31,7 @@ ogImage: "https://img.ulec.com.cn/edu/hk-masters-business-admission-thresholds-2
 
 同为 31 学分，内部结构也不同。数据科学及分析理学硕士是 6 门必修加 4 门选修，或 6 门必修加 1 门选修加毕业论文；人工智能及大数据计算理学硕士是 5 门必修加 5 门选修，或 5 门必修加 2 门选修加毕业论文。论文路径还有各自的 GPA 门槛。
 
-![香港硕士课程门槛与费用逐项核对示意](https://img.ulec.com.cn/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg)
+![香港硕士课程门槛与费用逐项核对示意](https://img.liuxue.asia/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg)
 
 *同为 31 学分，不同课程的必修／选修构成与论文门槛并不相同。*
 
@@ -53,7 +53,7 @@ ogImage: "https://img.ulec.com.cn/edu/hk-masters-business-admission-thresholds-2
 
 但全校线是底线不是上限——综合研究生发展计划下的两个课程写的是雅思 6.5 或托福 iBT 92。跨校比语言线时同样要落到课程页，而不是学校的统一说明页。授课语言的整体分布见[亚洲英语授课分布](/asia-english-taught-distribution/)。
 
-![亚洲高校校园与升学决策场景](https://img.ulec.com.cn/edu/hk-business-campus-students-2026-2026-1880x1253.jpg)
+![亚洲高校校园与升学决策场景](https://img.liuxue.asia/edu/hk-business-campus-students-2026-2026-1880x1253.jpg)
 
 *语言线要落到课程页看，全校最低线只是底线。*
 

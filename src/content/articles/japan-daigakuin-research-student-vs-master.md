@@ -5,7 +5,7 @@ category: "japan"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 10
 tags: ["日本大学院", "研究生", "修士", "两段式入学", "赴日读研"]
-ogImage: "https://img.ulec.com.cn/留学/japan-daigakuin-research-student-vs-master-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/japan-daigakuin-research-student-vs-master-2026-1743x1300.jpg"
 ---
 
 在中国，"研究生"指硕士或博士在读；但在日本，"研究生"（kenkyūsei）是完全不同的身份——它是非正式生、旁听生、修士（硕士）的预备阶段。很多学生搞不清这两者，直接申请修士受阻后才发现还有"研究生"这条过渡路。这篇专讲日本大学院内部的两段式入学。

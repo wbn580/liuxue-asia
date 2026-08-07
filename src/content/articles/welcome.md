@@ -5,7 +5,7 @@ category: "decision"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 5
 tags: ["留学决策", "亚洲留学"]
-ogImage: "https://img.ulec.com.cn/留学/welcome-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/welcome-2026-1880x1253.jpg"
 ---
 
 ## 为什么选择亚洲？

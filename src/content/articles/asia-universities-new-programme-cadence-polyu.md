@@ -6,7 +6,7 @@ country: "香港"
 publishDate: 2026-07-30T03:15:00Z
 readingTime: 9
 tags: ["香港留学", "新开专业", "香港理工大学", "选校决策"]
-ogImage: "https://img.ulec.com.cn/edu/physics-undergrad-grad-2026-china-students-deep-dive-img0-2026-6000x4000.jpeg"
+ogImage: "https://img.liuxue.asia/edu/physics-undergrad-grad-2026-china-students-deep-dive-img0-2026-6000x4000.jpeg"
 ---
 
 每年招生季都会出现「某校今年新开了几个专业」的说法，但亚洲院校普遍不发布「本年度新开课程清单」这样的官方文件。以香港理工大学（The Hong Kong Polytechnic University，PolyU）为例：2027 年 9 月入学的授课型硕士目录共 124 个条目，页面上真正存在的与「变动」相关的官方字段只有两种状态标注——「offered subject to approval」（1 个条目）与「Not inviting applications」（3 个条目）；「是否新开」不是官方字段，只能靠差分核对来推断。本文用这一届目录做一次完整示范。
@@ -25,7 +25,7 @@ ogImage: "https://img.ulec.com.cn/edu/physics-undergrad-grad-2026-china-students
 
 **但这不是「新开 12 个」。** 细分编号里包含修读模式代码，课程拆分方向、调整模式或改名都会让编号变化，因此其中一部分很可能只是编号变更而非真正新设。这就是为什么本文给出方法与原始结果，但不给出一个「新开 N 个」的硬计数——差分只能给出候选集，不能给出结论。
 
-![物理与材料方向研究生的实验与测量场景](https://img.ulec.com.cn/edu/physics-undergrad-grad-2026-china-students-deep-dive-img0-2026-6000x4000.jpeg)
+![物理与材料方向研究生的实验与测量场景](https://img.liuxue.asia/edu/physics-undergrad-grad-2026-china-students-deep-dive-img0-2026-6000x4000.jpeg)
 
 *差分方法给出的是候选集，不是「新开 N 个」的结论。*
 
@@ -53,7 +53,7 @@ ogImage: "https://img.ulec.com.cn/edu/physics-undergrad-grad-2026-china-students
 
 顺带说明一个常见的对不上：坊间流传的「今年停招三个专业」在数量上恰好也是三个，但学科完全不同——官方标注的这三个属于职业治疗、婚姻家庭治疗与社会工作方向。数量对得上不代表内容对得上，这正是需要回官方字段核对的原因。
 
-![城市与人居设计方向的方案讨论场景](https://img.ulec.com.cn/edu/urban-planning-masters-2026-china-students-deep-dive-img0-2026-6091x4061.jpeg)
+![城市与人居设计方向的方案讨论场景](https://img.liuxue.asia/edu/urban-planning-masters-2026-china-students-deep-dive-img0-2026-6091x4061.jpeg)
 
 *「Not inviting applications」是当届状态，不是永久停办公告。*
 

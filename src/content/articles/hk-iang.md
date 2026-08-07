@@ -5,7 +5,7 @@ category: "hongkong"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["IANG签证", "香港工作", "留学生就业", "香港求职", "签证政策"]
-ogImage: "https://img.ulec.com.cn/留学/hk-iang-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.asia/留学/hk-iang-2026-1880x1111.jpg"
 ---
 
 # 2026香港毕业后留港工作：IANG签证政策与求职路径

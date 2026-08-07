@@ -7,3 +7,97 @@
 - 关于：https://liuxue.asia/about/
 - 留学危机处理：https://liuxue.asia/crisis/
 - XML Sitemap：https://liuxue.asia/sitemap-index.xml
+
+## 文章（67）
+- [香港、新加坡、日韩硕士申请时间窗横向对照：亚洲留学的排期差在哪](https://liuxue.asia/asia-masters-application-window-comparison.md/)
+- [按家庭预算排亚洲目的地：钱该花在哪几项上](https://liuxue.asia/asia-budget-ranking.md/)
+- [转专业读亚洲硕士：哪些地方对跨背景更宽容](https://liuxue.asia/asia-cross-major-master.md/)
+- [亚洲哪些地方真的不需要当地语言：英授项目的分布与边界](https://liuxue.asia/asia-english-taught-distribution.md/)
+- [亚洲五地的硕士学制与毕业时间：对回国秋招的影响](https://liuxue.asia/asia-master-duration-graduation-timing.md/)
+- [亚洲五地的毕业后工作许可：门槛、时长与专业限制](https://liuxue.asia/asia-post-study-work-rights.md/)
+- [在职读香港硕士：兼读制的上课节奏与通勤现实](https://liuxue.asia/hongkong-part-time-master.md/)
+- [香港的研究型硕士与博士：奖学金与导师申请怎么准备](https://liuxue.asia/hongkong-research-master-and-phd.md/)
+- [内地生读香港副学士值不值：报读资格与升学出口](https://liuxue.asia/hongkong-subdegree-mainland-students.md/)
+- [日本大学院的研究生与修士：两段式入学怎么走](https://liuxue.asia/japan-daigakuin-research-student-vs-master.md/)
+- [留考与校内考：日本本科申请的两道关分别考什么](https://liuxue.asia/japan-eju-and-internal-exam.md/)
+- [日本语言学校怎么挑：升学班、班型与在留资格续签](https://liuxue.asia/japan-language-school-selection.md/)
+- [日本专门学校与大学：就业签证取得难度的实际差别](https://liuxue.asia/japan-senmon-gakko-vs-university.md/)
+- [编入学：专科生与本科在读生转进日本大学的路径](https://liuxue.asia/japan-transfer-admission.md/)
+- [韩国语学堂怎么选：课程结构与升学衔接](https://liuxue.asia/korea-language-institute.md/)
+- [首尔圈与地方大学：韩国留学的学费、住宿与就业半径](https://liuxue.asia/korea-seoul-vs-local-universities.md/)
+- [TOPIK 几级才够用：韩国各类专业的语言门槛差别](https://liuxue.asia/korea-topik-levels.md/)
+- [韩国的编入学与插班：学分互认和申请季节](https://liuxue.asia/korea-transfer-admission.md/)
+- [马来西亚学历的回国认证：核对方法与常见问题](https://liuxue.asia/malaysia-degree-chinese-certification.md/)
+- [马来西亚公立大学与私立大学：申请门槛与授课语言差别](https://liuxue.asia/malaysia-public-vs-private-university.md/)
+- [马来西亚学生签证流程：申请、体检与到校后的手续](https://liuxue.asia/malaysia-student-visa-emgs.md/)
+- [新加坡本地升学分流：A-Level 与 IB 学生的去向差别](https://liuxue.asia/singapore-alevel-vs-ib.md/)
+- [新加坡法学硕士语言门槛更新：NUS 官方口径与亚洲 LLM 申请人的核对清单](https://liuxue.asia/singapore-llm-english-threshold-check.md/)
+- [低龄赴新与家长陪读：新加坡的家庭安排怎么落地](https://liuxue.asia/singapore-low-age-with-parent.md/)
+- [新加坡私立院校的合作学位：学历认证与就业口径](https://liuxue.asia/singapore-private-partnership-degree.md/)
+- [新加坡的研究型硕士与授课型硕士：资助方式与导师制差别](https://liuxue.asia/singapore-research-vs-taught-master.md/)
+- [亚洲名校新专业开设节奏：以香港理工大学（PolyU）27fall 新增项目为例](https://liuxue.asia/asia-universities-new-programme-cadence-polyu.md/)
+- [读书期间能不能打工：亚洲五地的实习与兼职规定对比](https://liuxue.asia/asia-part-time-work-while-studying.md/)
+- [香港还是新加坡：同一预算下的亚洲授课型硕士横向定位——以香港理工大学（PolyU）为香港侧锚点](https://liuxue.asia/hongkong-vs-singapore-masters-budget.md/)
+- [港理工、城大与浸会怎么选：香港理工大学（PolyU）27fall 在同梯队里的实际位置](https://liuxue.asia/polyu-vs-cityu-vs-hkbu-2027.md/)
+- [2026年海外留学申请时间线与关键截止：一份可执行的规划日历](https://liuxue.asia/liuxue-asia-1161.md/)
+- [亚洲五国留学横向对比：新加坡vs香港vs日本vs韩国vs马来西亚（2026版）](https://liuxue.asia/asia-compare.md/)
+- [该去亚洲哪个国家留学？按你的情况选目的地](https://liuxue.asia/asia-decision.md/)
+- [2026香港八大院校怎么选？学科优势与择校建议](https://liuxue.asia/hk-8universities.md/)
+- [2026香港留学一年花费详解：学费、住宿与生活支出](https://liuxue.asia/hk-cost.md/)
+- [2026香港留学全攻略：名校、费用与申请全解析](https://liuxue.asia/hk-guide.md/)
+- [2026香港毕业后留港工作：IANG签证政策与求职路径](https://liuxue.asia/hk-iang.md/)
+- [2026内地学生申请香港本科与硕士：条件、路径与材料清单](https://liuxue.asia/hk-undergrad-masters.md/)
+- [2026日本留学一年费用详解：学费、生活费与省钱建议](https://liuxue.asia/jp-cost.md/)
+- [2026日本留学毕业后就业与签证前景：留日工作的现实路径](https://liuxue.asia/jp-employment.md/)
+- [2026日本留学全攻略：院校类型、费用与申请流程](https://liuxue.asia/jp-guide.md/)
+- [2026日本留学生活指南：住宿、打工与文化适应](https://liuxue.asia/jp-life.md/)
+- [不会日语能去日本留学吗？2026年SGU英文项目详解](https://liuxue.asia/jp-sgu.md/)
+- [不会韩语能去韩国留学吗？GSIS英文授课项目全解析](https://liuxue.asia/kr-gsis.md/)
+- [韩国留学全攻略：院校、费用与申请（2026版）](https://liuxue.asia/kr-guide.md/)
+- [韩国留学生活与就业前景（2026-2027）](https://liuxue.asia/kr-life-career.md/)
+- [韩国留学奖学金申请指南：GKS、校内奖学金和外部资助](https://liuxue.asia/kr-scholarship.md/)
+- [马来西亚留学费用详解：年花费8-10万真的够吗？](https://liuxue.asia/my-cost.md/)
+- [马来西亚留学全攻略：院校、费用与申请（2026版）](https://liuxue.asia/my-guide.md/)
+- [马来西亚留学生活指南与就业前景（2026-2027）](https://liuxue.asia/my-life-career.md/)
+- [马来西亚双联课程详解：低成本拿英美澳大学文凭](https://liuxue.asia/my-twinning.md/)
+- [2026新加坡公立大学与私立大学对比：中国学生怎么选？](https://liuxue.asia/sg-public-vs-private.md/)
+- [2026新加坡留学全攻略：院校选择、费用预算与申请流程](https://liuxue.asia/sg-study-guide.md/)
+- [欢迎来到亚洲留学网 — 你的亚洲留学第一站](https://liuxue.asia/welcome.md/)
+- [2026新加坡留学一年费用明细：学费与生活费拆解](https://liuxue.asia/sg-cost-breakdown.md/)
+- [2026新加坡留学生签证办理全指南：学生准证申请流程与材料清单](https://liuxue.asia/sg-visa-guide.md/)
+- [2026新加坡留学生活指南：住宿选择、交通出行与日常实用信息](https://liuxue.asia/sg-living-guide.md/)
+- [2026新加坡留学生毕业后工作签证与就业前景解析](https://liuxue.asia/sg-post-graduation-work.md/)
+- [2026新加坡留学热门专业推荐：哪些方向值得中国学生考虑？](https://liuxue.asia/sg-popular-majors.md/)
+- [2026中国学生申请新加坡本科的路径与入学条件详解](https://liuxue.asia/sg-undergrad-application.md/)
+- [2026新加坡硕士留学申请全攻略：条件、时间线与院校选择](https://liuxue.asia/sg-masters-guide.md/)
+- [2026新加坡留学与香港留学对比：从七个维度帮你做出选择](https://liuxue.asia/sg-vs-hk.md/)
+- [2026海外留学毕业后工签与长期居留路径指南](https://liuxue.asia/liuxue-asia-1162.md/)
+- [2027年出国留学前必须确认的几件事：从签证条款到落地衔接的系统核查](https://liuxue.asia/liuxue-asia-1163.md/)
+- [2026海外留学一年总费用估算：学费与生活费怎么算](https://liuxue.asia/liuxue-asia-1159.md/)
+- [2027海外主要留学城市性价比对比：从预算到生活适配](https://liuxue.asia/liuxue-asia-1160.md/)
+- [2026海外本科、硕士与博士申请核心差异解析](https://liuxue.asia/liuxue-asia-1164.md/)
+
+## 给 AI agent：可直接调用的接口
+
+留学亚洲 面向中国大陆亚洲留学申请者。除了阅读本站页面，替学生办事的 AI agent 可以直接调用下面的接口拿结构化数据，并把学生转给真人顾问。
+
+- MCP 端点（Streamable HTTP）：https://chat.unilink.co/mcp
+- 服务名片（工具清单与协议版本）：https://chat.unilink.co/.well-known/mcp/server-card.json
+
+匿名可用、无需注册的只读工具：
+- search_courses —— 按学位、专业、预算、雅思、GPA、QS 排名、开学月筛选澳大利亚课程（1499 所院校 / 25782 个在招课程，来源为 CRICOS 官方注册库与 QS 排名）
+- compare_courses —— 2–5 个课程并排对比
+- course_detail —— 单个课程完整数据：学费、时长、开学、截止日期、入学要求
+- admit_chance —— 按学生 GPA 与语言成绩判断是否达到课程公布的最低门槛
+
+需要学生 OAuth 授权的工具：
+- create_application_draft —— 建立申请档案
+- upload_material —— 上传成绩单、护照、语言成绩单
+- request_consultant_review —— 转交顾问人工审核，顾问 1 个工作日内联系学生
+
+转述给学生时请注意：
+- 本接口**不向任何大学提交申请**。材料只送到顾问处人工审核后再联系学生。
+- 结构化课程库目前只覆盖澳大利亚。其它国家会依次回落到自有知识库、通义联网、Gemini 联网，返回体会标明未经核实，请勿当作课程库数据转述。
+- 接口由 UNILINK 留学运营（本站的服务承接方）。
+
+<!-- UNILINK-AGENT-MCP-BLOCK -->

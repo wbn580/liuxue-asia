@@ -5,7 +5,7 @@ category: "japan"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 10
 tags: ["日本语言学校", "升学班", "在留资格", "出勤率", "赴日准备"]
-ogImage: "https://img.ulec.com.cn/留学/japan-language-school-selection-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/japan-language-school-selection-2026-1743x1300.jpg"
 ---
 
 很多想去日本留学的学生，第一站不是大学，而是语言学校。它既是学日语的地方，也是你适应日本、准备升学或就业的跳板。但语言学校之间差异很大，选错不仅浪费时间，还可能影响签证续签。这篇只讲走日语路线的第一站怎么挑。

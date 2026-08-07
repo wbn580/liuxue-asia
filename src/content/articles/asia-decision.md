@@ -5,7 +5,7 @@ category: "decision"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 7
 tags: ["留学决策", "自助评估", "亚洲留学"]
-ogImage: "https://img.ulec.com.cn/留学/asia-decision-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/asia-decision-2026-1743x1300.jpg"
 ---
 
 ## 先把选择范围缩小

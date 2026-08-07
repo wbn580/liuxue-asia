@@ -7,7 +7,7 @@ pubDatetime: 2026-07-29T08:56:52Z
 modDatetime: 2026-07-29T08:56:52Z
 readingTime: 12
 tags: ["亚洲留学", "学生兼职", "实习规定", "签证合规"]
-ogImage: "https://img.ulec.com.cn/留学/asia-part-time-work-while-studying-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/asia-part-time-work-while-studying-2026-1743x1300.jpg"
 ---
 
 <!-- AS-EXP1 -->

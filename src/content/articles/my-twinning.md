@@ -5,7 +5,7 @@ category: "malaysia"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 7
 tags: ["双联课程", "英美澳文凭", "马来西亚留学", "留学费用"]
-ogImage: "https://img.ulec.com.cn/留学/my-twinning-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/my-twinning-2026-1880x1253.jpg"
 ---
 
 ## 一、双联课程是怎么运作的

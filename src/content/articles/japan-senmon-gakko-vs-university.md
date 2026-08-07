@@ -5,7 +5,7 @@ category: "japan"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 10
 tags: ["日本专门学校", "日本大学", "就业签证", "专门学校", "赴日就业"]
-ogImage: "https://img.ulec.com.cn/留学/japan-senmon-gakko-vs-university-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/japan-senmon-gakko-vs-university-2026-1743x1300.jpg"
 ---
 
 很多想去日本就业的学生，会纠结是读大学还是读专门学校（senmon gakkō）。两者学历层级不同，毕业后找工作时面临的签证审核逻辑也不一样。这篇专讲学校类型这一个变量，不重复整体就业前景。

@@ -5,7 +5,7 @@ category: "korea"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["韩国地方大学", "首尔圈", "学费", "就业半径", "留学成本"]
-ogImage: "https://img.ulec.com.cn/留学/korea-seoul-vs-local-universities-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/korea-seoul-vs-local-universities-2026-1880x1253.jpg"
 ---
 
 去韩国留学，一个现实分岔是：挤首尔圈，还是去地方大学。两者在花费、资源和就业机会上差别明显。这篇只做首都圈与地方的二元对比，不重复整体就业描述。

@@ -5,7 +5,7 @@ category: "korea"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 7
 tags: ["奖学金", "GKS", "韩国留学", "留学预算"]
-ogImage: "https://img.ulec.com.cn/留学/kr-scholarship-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/kr-scholarship-2026-1880x1253.jpg"
 ---
 
 ## 一、为什么韩国奖学金值得重点关注

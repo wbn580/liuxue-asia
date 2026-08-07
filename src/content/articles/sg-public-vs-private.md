@@ -7,7 +7,7 @@ readingTime: 8
 tags: ["公立大学", "私立大学", "院校对比", "择校建议"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/sg-public-vs-private-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/sg-public-vs-private-2026-1880x1253.jpg"
 ---
 
 ## 两类院校的核心差异

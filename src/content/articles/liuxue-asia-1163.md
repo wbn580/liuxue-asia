@@ -11,13 +11,13 @@ lang: zh
 language: zh
 tags:
 - 去海外留学前必须确认的几件事
-ogImage: https://img.ulec.com.cn/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg
+ogImage: https://img.liuxue.asia/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg
 category: singapore
 ---
 
 拿到录取通知书只是留学准备的起点。签证获批后，你手中那份批准信上列出的每一项条款、每一份保险凭证、每一个截止日期，都直接决定你能否顺利入境、完成注册并合法停留。以下事项以多个主要留学目的地的通用框架展开，其中以澳大利亚学生签证（Subclass 500）作为具体参照——这是中文留学家庭最常办理的签证类型之一，其规范结构也可作为理解其他国家要求的对照基础。
 
-![2027年出国留学前必须确认的几件事：从签证条款到落地衔接的系统核查](https://img.ulec.com.cn/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg)
+![2027年出国留学前必须确认的几件事：从签证条款到落地衔接的系统核查](https://img.liuxue.asia/edu/hk-masters-business-admission-thresholds-2026-2026-1733x1300.jpg)
 
 ## 一、签证条款不是背景信息，是你在海外的行为边界
 

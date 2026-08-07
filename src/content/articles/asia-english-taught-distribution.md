@@ -5,7 +5,7 @@ category: "comparison"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["英语授课", "亚洲五地", "当地语言", "专业偏科", "求职语言"]
-ogImage: "https://img.ulec.com.cn/留学/asia-english-taught-distribution-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/asia-english-taught-distribution-2026-1743x1300.jpg"
 ---
 
 很多学生被"全英文授课"吸引，以为到了亚洲留学就不用学当地语言。但英授项目的覆盖并不均衡，生活和求职对当地语言的依赖也比想象高。这篇把五地放在一张图上比。

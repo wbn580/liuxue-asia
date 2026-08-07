@@ -183,6 +183,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"asia-masters-application-window-comparison.md": {
+	id: "asia-masters-application-window-comparison.md";
+  slug: "asia-masters-application-window-comparison";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "asia-part-time-work-while-studying.md": {
 	id: "asia-part-time-work-while-studying.md";
   slug: "asia-part-time-work-while-studying";
@@ -564,6 +571,13 @@ declare module 'astro:content' {
 "singapore-alevel-vs-ib.md": {
 	id: "singapore-alevel-vs-ib.md";
   slug: "singapore-alevel-vs-ib";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"singapore-llm-english-threshold-check.md": {
+	id: "singapore-llm-english-threshold-check.md";
+  slug: "singapore-llm-english-threshold-check";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">

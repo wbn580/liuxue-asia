@@ -5,7 +5,7 @@ category: "hongkong"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["香港留学费用", "留学预算", "住宿费用", "香港生活成本", "2026"]
-ogImage: "https://img.ulec.com.cn/留学/hk-cost-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/hk-cost-2026-1880x1253.jpg"
 ---
 
 # 2026香港留学一年花费详解：学费、住宿与生活支出

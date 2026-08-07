@@ -5,7 +5,7 @@ category: "malaysia"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["马来西亚学历", "回国认证", "双联课程", "分校学位", "认证材料"]
-ogImage: "https://img.ulec.com.cn/留学/malaysia-degree-chinese-certification-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/malaysia-degree-chinese-certification-2026-1880x1253.jpg"
 ---
 
 马来西亚因为大量双联课程和海外分校，学历认证比一般国家复杂。很多学生毕业才发现问题。这篇专讲认证结果，和双联课程篇分工。

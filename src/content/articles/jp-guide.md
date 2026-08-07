@@ -5,7 +5,7 @@ category: "japan"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["日本留学", "日本大学", "留学攻略", "留学申请", "2026"]
-ogImage: "https://img.ulec.com.cn/留学/jp-guide-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/jp-guide-2026-1880x1253.jpg"
 ---
 
 # 2026日本留学全攻略：院校类型、费用与申请流程

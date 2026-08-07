@@ -5,7 +5,7 @@ category: "singapore"
 publishDate: 2026-06-16T00:00:00Z
 readingTime: 7
 tags: ["学生签证", "学生准证", "ICA", "签证办理"]
-ogImage: "https://img.ulec.com.cn/留学/sg-visa-guide-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/sg-visa-guide-2026-1880x1253.jpg"
 ---
 
 ## 学生准证概述

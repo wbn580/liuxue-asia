@@ -7,7 +7,7 @@ readingTime: 10
 tags: ["香港八大", "院校选择", "学科排名", "香港留学", "择校指南"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/hk-8universities-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/hk-8universities-2026-1880x1253.jpg"
 ---
 
 # 2026香港八大院校怎么选？学科优势与择校建议

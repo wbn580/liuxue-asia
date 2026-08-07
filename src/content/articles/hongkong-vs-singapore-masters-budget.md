@@ -6,7 +6,7 @@ country: "香港"
 publishDate: 2026-07-28T04:20:00Z
 readingTime: 9
 tags: ["香港留学", "新加坡留学", "留学预算", "授课型硕士"]
-ogImage: "https://img.ulec.com.cn/edu/hk-business-campus-students-2026-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/edu/hk-business-campus-students-2026-2026-1880x1253.jpg"
 ---
 
 把香港和新加坡放在同一笔预算下比较，最容易犯的错是拿两个数字直接相减。真正决定总支出的是三层结构：学费的**计费口径**（按学分、按整个课程还是按模块）、**学制**决定的在当地月份数、以及院校**是否向非本地学生开放资助**。香港理工大学（The Hong Kong Polytechnic University，PolyU）2027 年 9 月入学的官方数据在这三层上都有明确值，可以作为香港侧的锚点；新加坡侧的对应字段需要各自到院校官网核对，本文给出路径但不代填数字。
@@ -31,7 +31,7 @@ ogImage: "https://img.ulec.com.cn/edu/hk-business-campus-students-2026-2026-1880
 
 从 1 年到 1.5 年，住宿与日常开支的时间基数直接增加一半。比较两地时，用「学费 + 学制月份 × 当地月度开支」这个结构，比只比学费有意义得多。各地学制差异的整体图景见[亚洲硕士学制与毕业时间](/asia-master-duration-graduation-timing/)。
 
-![亚洲城市校园与国际学生日常生活场景](https://img.ulec.com.cn/edu/hk-business-campus-students-2026-2026-1880x1253.jpg)
+![亚洲城市校园与国际学生日常生活场景](https://img.liuxue.asia/edu/hk-business-campus-students-2026-2026-1880x1253.jpg)
 
 *同为 31 学分，1 年制与 1.5 年制的生活开支时间基数差一半。*
 
@@ -55,7 +55,7 @@ ogImage: "https://img.ulec.com.cn/edu/hk-business-campus-students-2026-2026-1880
 
 这两条把「预算」的定义从「够花」改成了「能证明不工作也能负担全程」。医疗保险与自行租房是必须计入的固定项，不能等到落地再算。
 
-![城市生活成本与住宿预算规划场景](https://img.ulec.com.cn/edu/real-estate-masters-2026-china-students-deep-dive-img0-2026-6000x4000.jpeg)
+![城市生活成本与住宿预算规划场景](https://img.liuxue.asia/edu/real-estate-masters-2026-china-students-deep-dive-img0-2026-6000x4000.jpeg)
 
 *官方要求「不工作也能负担」，因此打工收入不能计入预算。*
 

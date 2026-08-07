@@ -5,7 +5,7 @@ category: "malaysia"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 7
 tags: ["马来西亚生活", "就业前景", "留学生活"]
-ogImage: "https://img.ulec.com.cn/留学/my-life-career-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/my-life-career-2026-1880x1253.jpg"
 ---
 
 ## 一、落地前需要了解的生活基本面

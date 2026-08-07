@@ -5,7 +5,7 @@ category: "korea"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 6
 tags: ["GSIS", "英文授课", "韩国留学", "零韩语"]
-ogImage: "https://img.ulec.com.cn/留学/kr-gsis-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.asia/留学/kr-gsis-2026-1880x1111.jpg"
 ---
 
 ## 一、GSIS 是什么

@@ -5,7 +5,7 @@ category: "comparison"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["毕业后工作", "工作许可", "亚洲五地", "停留政策", "求职"]
-ogImage: "https://img.ulec.com.cn/留学/asia-post-study-work-rights-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/asia-post-study-work-rights-2026-1743x1300.jpg"
 ---
 
 很多学生关心"读完能不能留在当地工作"。亚洲五地都有面向毕业生的停留或工作许可，但门槛、时

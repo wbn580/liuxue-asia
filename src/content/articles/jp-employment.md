@@ -5,7 +5,7 @@ category: "japan"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["日本就业", "留学生工作", "日本签证", "就职活动", "2026"]
-ogImage: "https://img.ulec.com.cn/留学/jp-employment-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/jp-employment-2026-1880x1253.jpg"
 ---
 
 # 2026日本留学毕业后就业与签证前景：留日工作的现实路径

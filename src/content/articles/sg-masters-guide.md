@@ -5,7 +5,7 @@ category: "singapore"
 publishDate: 2026-06-11T00:00:00Z
 readingTime: 8
 tags: ["硕士申请", "研究生", "授课型硕士", "研究型硕士", "申请攻略"]
-ogImage: "https://img.ulec.com.cn/留学/sg-masters-guide-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.asia/留学/sg-masters-guide-2026-1880x1111.jpg"
 ---
 
 ## 新加坡硕士教育的定位

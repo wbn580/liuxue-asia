@@ -5,7 +5,7 @@ category: "japan"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["日本留学费用", "留学预算", "日本生活成本", "留学生省钱", "2026"]
-ogImage: "https://img.ulec.com.cn/留学/jp-cost-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/jp-cost-2026-1880x1253.jpg"
 ---
 
 # 2026日本留学一年费用详解：学费、生活费与省钱建议

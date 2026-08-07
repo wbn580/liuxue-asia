@@ -5,7 +5,7 @@ category: "comparison"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["硕士学制", "毕业时间", "国内秋招", "亚洲五地", "时间线"]
-ogImage: "https://img.ulec.com.cn/留学/asia-master-duration-graduation-timing-2026-1743x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/asia-master-duration-graduation-timing-2026-1743x1300.jpg"
 ---
 
 回国就业的学生最关心一件事：我的学位证什么时候到手，能不能赶上一届校招。亚洲五地的硕士学制和入学毕业时间差异很大，直接导致你错过或赶上国内招聘周期。这篇只做时间线这一个维度的深挖。

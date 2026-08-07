@@ -5,7 +5,7 @@ category: "singapore"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["新加坡低龄", "陪读", "家长陪读", "入学通道", "监护"]
-ogImage: "https://img.ulec.com.cn/留学/singapore-low-age-with-parent-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.asia/留学/singapore-low-age-with-parent-2026-1880x1111.jpg"
 ---
 
 新加坡是亚洲少数对低龄留学生有成熟陪读安排的目的地，但"陪读"不是随便一个家长都能来、来了也不是能随意工作。这篇讲家庭安排怎么落地，全站此前没有低龄内容。

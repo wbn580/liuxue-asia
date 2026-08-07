@@ -5,7 +5,7 @@ category: "korea"
 publishDate: 2026-08-06T00:00:00Z
 readingTime: 9
 tags: ["韩国语学堂", "语言学校", "签证延签", "升学衔接", "韩语"]
-ogImage: "https://img.ulec.com.cn/留学/korea-language-institute-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.asia/留学/korea-language-institute-2026-1880x1253.jpg"
 ---
 
 走韩语路线去韩国，很多人先读大学附属的语学堂（language institute）把韩语拉起来，再申正课。语学堂不是随便选一个就行，课程结构、衔接政策和签证安排差别不小。这篇讲学习通道，和 TOPIK 那篇分工。

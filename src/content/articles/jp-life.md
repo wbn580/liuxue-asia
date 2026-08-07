@@ -5,7 +5,7 @@ category: "japan"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["日本生活", "留学生活", "打工攻略", "文化适应", "住宿指南"]
-ogImage: "https://img.ulec.com.cn/留学/jp-life-2026-1733x1300.jpg"
+ogImage: "https://img.liuxue.asia/留学/jp-life-2026-1733x1300.jpg"
 ---
 
 # 2026日本留学生活指南：住宿、打工与文化适应
