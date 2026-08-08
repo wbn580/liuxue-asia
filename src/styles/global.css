@@ -45,3 +45,7 @@
 }
 
 @keyframes heroZoom { from { transform: scale(1.04); } to { transform: scale(1.12); } }
+
+/* ux-fix batch07: mobile tap targets >=44px (UX audit) */
+a,button,input,select,textarea,summary,[role="button"]{min-height:44px;box-sizing:border-box;touch-action:manipulation}
+button,input,select,textarea,summary,[role="button"]{min-width:44px}
