@@ -239,6 +239,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"hk-sg-application-fee-compare-caveats.md": {
+	id: "hk-sg-application-fee-compare-caveats.md";
+  slug: "hk-sg-application-fee-compare-caveats";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "hk-undergrad-masters.md": {
 	id: "hk-undergrad-masters.md";
   slug: "hk-undergrad-masters";
