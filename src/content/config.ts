@@ -7,7 +7,7 @@ const articles = defineCollection({
     description: z.string(),
     category: z.string(),
     country: z.string().optional(),
-    publishDate: z.date(),
+    publishDate: z.coerce.date(),
     readingTime: z.number().optional(),
     tags: z.array(z.string()).default([]),
     ogImage: z.string().optional(),
