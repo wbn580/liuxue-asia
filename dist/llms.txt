@@ -8,7 +8,8 @@
 - 留学危机处理：https://liuxue.asia/crisis/
 - XML Sitemap：https://liuxue.asia/sitemap-index.xml
 
-## 文章（68）
+## 文章（69）
+- [香港 vs 新加坡/日韩：新开硕士捡漏窗口横向对照](https://liuxue.asia/hk-sg-jp-kr-new-masters-window-compare.md/)
 - [港新申请费对比为什么不能只看一张表：口径、币种与查询路径](https://liuxue.asia/hk-sg-application-fee-compare-caveats.md/)
 - [香港、新加坡、日韩硕士申请时间窗横向对照：亚洲留学的排期差在哪](https://liuxue.asia/asia-masters-application-window-comparison.md/)
 - [按家庭预算排亚洲目的地：钱该花在哪几项上](https://liuxue.asia/asia-budget-ranking.md/)
