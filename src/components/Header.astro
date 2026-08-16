@@ -22,10 +22,27 @@ const navItems = [
         <a href={item.href} class="hover:text-teal transition">{item.label}</a>
       ))}
     </nav>
-    <button onclick="openChat()" class="inline-flex items-center gap-2 rounded-full bg-ink text-white text-[13px] font-medium px-4 py-2 hover:bg-teal transition shadow-sm">
-      <span class="h-1.5 w-1.5 rounded-full bg-jade animate-pulse2"></span>选我的目的地
-    </button>
+    <div class="flex items-center gap-2">
+      <button onclick="openChat()" class="inline-flex items-center gap-2 rounded-full bg-ink text-white text-[13px] font-medium px-4 py-2 hover:bg-teal transition shadow-sm">
+        <span class="h-1.5 w-1.5 rounded-full bg-jade animate-pulse2"></span>选我的目的地
+      </button>
+      <button
+        type="button"
+        id="mobileNavToggle"
+        aria-label="打开导航菜单"
+        aria-expanded="false"
+        aria-controls="mobileNavPanel"
+        class="xl:hidden inline-flex items-center justify-center h-11 w-11 -mr-2 rounded-lg text-ink/70 hover:text-teal hover:bg-black/5 transition"
+      >
+        <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
   </div>
+  <nav id="mobileNavPanel" class="xl:hidden hidden flex-col border-t border-black/5 bg-white/95 backdrop-blur px-5 py-3">
+    {navItems.map(item => (
+      <a href={item.href} class="block py-2.5 text-[15px] text-ink/80 hover:text-teal transition">{item.label}</a>
+    ))}
+  </nav>
 </header>
 
 <script>
@@ -41,6 +58,24 @@ const navItems = [
     if (panel) { panel.classList.add('hidden'); panel.classList.remove('flex'); }
     if (bubble) bubble.classList.remove('hidden');
   }
+  (function () {
+    const toggle = document.getElementById('mobileNavToggle');
+    const panel = document.getElementById('mobileNavPanel');
+    if (!toggle || !panel) return;
+    toggle.addEventListener('click', () => {
+      const isOpen = !panel.classList.contains('hidden');
+      panel.classList.toggle('hidden');
+      panel.classList.toggle('flex');
+      toggle.setAttribute('aria-expanded', String(!isOpen));
+    });
+    panel.querySelectorAll('a').forEach((a) => {
+      a.addEventListener('click', () => {
+        panel.classList.add('hidden');
+        panel.classList.remove('flex');
+        toggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+  })();
 </script>
 
 <style>
