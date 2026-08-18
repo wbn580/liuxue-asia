@@ -1,4 +1,5 @@
 ---
+
 title: "马来西亚为何成为2026亚洲留学增长市场：生源结构、增长预测与风险边界"
 description: "本文基于QS 2026报告，核验马来西亚国际学生市场的生源结构、增长预测与风险边界。报告显示中国、孟加拉国与印尼学生合计超过半数，中国学生占比近40%，2024年约6万人，五年年均增长超30%。QS预测至2030年市场增长8.5%，规模约26万人。文章明确区分已核验事实与需以官方最新页面为准的内容，不包含任何未经事实支持的推断或承诺。"
 pubDatetime: "2026-08-17T00:30:00Z"
@@ -10,7 +11,8 @@ author: "亚洲留学编辑部"
 draft: false
 hideFromHome: false
 tags: ["qs-malaysia-global-student-flows-2026"]
-ogImage: "https://img.ulec.com.cn/留学/malaysia-2026-asia-study-market-2026-1880x1253.jpg"
+ogImage: "https://img.ulec.com.cn/留学/马来西亚为何成为2026亚洲留学增长市场生源结构增长预测与风险边界-2026-1280x960.jpg"
+
 ---
 
 ## 直接答案
