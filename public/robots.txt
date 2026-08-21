@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://liuxue.asia/sitemap-index.xml
+Sitemap: https://liuxue.asia/sitemap.xml
