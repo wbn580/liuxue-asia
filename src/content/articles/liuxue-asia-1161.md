@@ -6,7 +6,6 @@ publishDate: 2026-06-27T03:29:37Z
 modDatetime: '2026-07-30T12:00:00Z'
 slug: liuxue-asia-1161
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /hero.jpg

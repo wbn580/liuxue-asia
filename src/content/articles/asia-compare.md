@@ -5,8 +5,6 @@ category: "comparison"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 9
 tags: ["亚洲留学", "横向对比", "新加坡", "香港", "日本", "韩国", "马来西亚"]
-hideFromHome: true
-
 ogImage: "https://img.liuxue.asia/留学/asia-compare-2026-1743x1300.jpg"
 ---
 

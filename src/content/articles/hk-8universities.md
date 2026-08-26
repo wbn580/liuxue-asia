@@ -5,8 +5,6 @@ category: "hongkong"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 10
 tags: ["香港八大", "院校选择", "学科排名", "香港留学", "择校指南"]
-hideFromHome: true
-
 ogImage: "https://img.liuxue.asia/留学/hk-8universities-2026-1880x1253.jpg"
 ---
 

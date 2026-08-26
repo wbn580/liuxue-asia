@@ -10,7 +10,6 @@ slug: "hk-sg-jp-kr-new-masters-window-compare"
 lang: "zh-CN"
 draft: false
 featured: false
-hideFromHome: true
 ogImage: "https://img.liuxue.asia/留学/sg-study-guide-2026-1880x1253.jpg"
 ---
 

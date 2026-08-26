@@ -5,8 +5,6 @@ category: "singapore"
 publishDate: 2026-06-18T00:00:00Z
 readingTime: 8
 tags: ["公立大学", "私立大学", "院校对比", "择校建议"]
-hideFromHome: true
-
 ogImage: "https://img.liuxue.asia/留学/sg-public-vs-private-2026-1880x1253.jpg"
 ---
 

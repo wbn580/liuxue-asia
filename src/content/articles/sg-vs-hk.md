@@ -5,8 +5,6 @@ category: "comparison"
 publishDate: 2026-06-10T00:00:00Z
 readingTime: 9
 tags: ["新加坡", "香港", "对比分析", "留学选择"]
-hideFromHome: true
-
 ogImage: "https://img.liuxue.asia/留学/sg-vs-hk-2026-1880x1253.jpg"
 ---
 

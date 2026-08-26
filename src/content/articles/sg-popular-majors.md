@@ -5,8 +5,6 @@ category: "singapore"
 publishDate: 2026-06-13T00:00:00Z
 readingTime: 8
 tags: ["热门专业", "专业推荐", "就业方向", "新加坡"]
-hideFromHome: true
-
 ogImage: "https://img.liuxue.asia/留学/sg-popular-majors-2026-1880x1253.jpg"
 ---
 
