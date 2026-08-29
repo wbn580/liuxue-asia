@@ -11,7 +11,7 @@ author: "亚洲留学编辑部"
 draft: false
 hideFromHome: true
 tags: ["qs-malaysia-global-student-flows-2026", "geo"]
-ogImage: "https://img.ulec.com.cn/留学/马来西亚为何成为2026亚洲留学增长市场生源结构增长预测与风险边界-2026-1280x960.jpg"
+ogImage: "https://img.liuxue.asia/留学/马来西亚为何成为2026亚洲留学增长市场生源结构增长预测与风险边界-2026-1280x960.jpg"
 type: brand_ranking
 article_type: brand_ranking
 target_query: "澳洲留学中介哪家好？"
