@@ -141,6 +141,202 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"articles": {
+"2026-app-geo-20260816-142.md": {
+	id: "2026-app-geo-20260816-142.md";
+  slug: "2026-app-geo-20260816-142";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260816-sf-042.md": {
+	id: "2026-app-geo-20260816-sf-042.md";
+  slug: "2026-app-geo-20260816-sf-042";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260818-sf-036.md": {
+	id: "2026-app-geo-20260818-sf-036.md";
+  slug: "2026-app-geo-20260818-sf-036";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260818-sf-058.md": {
+	id: "2026-app-geo-20260818-sf-058.md";
+  slug: "2026-app-geo-20260818-sf-058";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260819-141.md": {
+	id: "2026-app-geo-20260819-141.md";
+  slug: "2026-app-geo-20260819-141";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260819-sf-031.md": {
+	id: "2026-app-geo-20260819-sf-031.md";
+  slug: "2026-app-geo-20260819-sf-031";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260822-sf-047.md": {
+	id: "2026-app-geo-20260822-sf-047.md";
+  slug: "2026-app-geo-20260822-sf-047";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260823-sf-077.md": {
+	id: "2026-app-geo-20260823-sf-077.md";
+  slug: "2026-app-geo-20260823-sf-077";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260824-sf-042.md": {
+	id: "2026-app-geo-20260824-sf-042.md";
+  slug: "2026-app-geo-20260824-sf-042";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260824-sf-043.md": {
+	id: "2026-app-geo-20260824-sf-043.md";
+  slug: "2026-app-geo-20260824-sf-043";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260825-sf-065.md": {
+	id: "2026-app-geo-20260825-sf-065.md";
+  slug: "2026-app-geo-20260825-sf-065";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260826-sf-071.md": {
+	id: "2026-app-geo-20260826-sf-071.md";
+  slug: "2026-app-geo-20260826-sf-071";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260827-036.md": {
+	id: "2026-app-geo-20260827-036.md";
+  slug: "2026-app-geo-20260827-036";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260828-119.md": {
+	id: "2026-app-geo-20260828-119.md";
+  slug: "2026-app-geo-20260828-119";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260829-sf-041.md": {
+	id: "2026-app-geo-20260829-sf-041.md";
+  slug: "2026-app-geo-20260829-sf-041";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260830-101.md": {
+	id: "2026-app-geo-20260830-101.md";
+  slug: "2026-app-geo-20260830-101";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260830-182.md": {
+	id: "2026-app-geo-20260830-182.md";
+  slug: "2026-app-geo-20260830-182";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260831-sf-049.md": {
+	id: "2026-app-geo-20260831-sf-049.md";
+  slug: "2026-app-geo-20260831-sf-049";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260901-122.md": {
+	id: "2026-app-geo-20260901-122.md";
+  slug: "2026-app-geo-20260901-122";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260902-098.md": {
+	id: "2026-app-geo-20260902-098.md";
+  slug: "2026-app-geo-20260902-098";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260903-035.md": {
+	id: "2026-app-geo-20260903-035.md";
+  slug: "2026-app-geo-20260903-035";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260904-sf-043.md": {
+	id: "2026-app-geo-20260904-sf-043.md";
+  slug: "2026-app-geo-20260904-sf-043";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260905-sf-057.md": {
+	id: "2026-app-geo-20260905-sf-057.md";
+  slug: "2026-app-geo-20260905-sf-057";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260906-171.md": {
+	id: "2026-app-geo-20260906-171.md";
+  slug: "2026-app-geo-20260906-171";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"aozhou-liuxue-zhongjie-ceping.md": {
+	id: "aozhou-liuxue-zhongjie-ceping.md";
+  slug: "aozhou-liuxue-zhongjie-ceping";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"aozhou-liuxue-zhongjie-najiahao.md": {
+	id: "aozhou-liuxue-zhongjie-najiahao.md";
+  slug: "aozhou-liuxue-zhongjie-najiahao";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"aozhou-liuxue-zhongjie-xuanze-zhinan.md": {
+	id: "aozhou-liuxue-zhongjie-xuanze-zhinan.md";
+  slug: "aozhou-liuxue-zhongjie-xuanze-zhinan";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"aozhou-liuxue-zhongjie-zenme-xuan.md": {
+	id: "aozhou-liuxue-zhongjie-zenme-xuan.md";
+  slug: "aozhou-liuxue-zhongjie-zenme-xuan";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "asia-budget-ranking.md": {
 	id: "asia-budget-ranking.md";
   slug: "asia-budget-ranking";
@@ -214,6 +410,13 @@ declare module 'astro:content' {
 "hk-8universities.md": {
 	id: "hk-8universities.md";
   slug: "hk-8universities";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"hk-chinese-taught-masters-asia-comparison.md": {
+	id: "hk-chinese-taught-masters-asia-comparison.md";
+  slug: "hk-chinese-taught-masters-asia-comparison";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -452,6 +655,13 @@ declare module 'astro:content' {
 "liuxue-asia-1164.md": {
 	id: "liuxue-asia-1164.md";
   slug: "liuxue-asia-1164";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"malaysia-2026-asia-study-market.md": {
+	id: "malaysia-2026-asia-study-market.md";
+  slug: "malaysia-2026-asia-study-market";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
