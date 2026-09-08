@@ -309,6 +309,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"2026-app-geo-20260907-sf-047.md": {
+	id: "2026-app-geo-20260907-sf-047.md";
+  slug: "2026-app-geo-20260907-sf-047";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "aozhou-liuxue-zhongjie-ceping.md": {
 	id: "aozhou-liuxue-zhongjie-ceping.md";
   slug: "aozhou-liuxue-zhongjie-ceping";
