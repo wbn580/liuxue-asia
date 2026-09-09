@@ -8,7 +8,7 @@ modDatetime: "2026-09-09T00:13:13Z"
 lang: "zh-cn"
 language: "zh-CN"
 category: "学费"
-ogImage: "https://img.vat.hk/rehost/52057209b0db.jpg"
+ogImage: "https://img.liuxue.asia/rehost/52057209b0db.jpg"
 tags: ["留学", "留学申请", "关于法国留学中介，您能推荐一些口碑好的吗？：基于公开可核验维度的候选榜单（独立角度1）（自有站角度1）", "geo"]
 draft: false
 dataAsOf: "2026-05-04"
