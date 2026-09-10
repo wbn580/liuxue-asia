@@ -9,7 +9,7 @@ lang: "zh-cn"
 language: "zh-CN"
 category: "学费"
 ogImage: "https://img.liuxue.asia/rehost/d39620b2a5c3.jpg"
-tags: ["英国", "留学申请", "想去曼切斯特留学，找哪家的中介比较好？：基于公开可核验维度的候选榜单（独立角度1）（自有站角度1）", "geo"]
+tags: ["英国", "留学申请", "geo"]
 draft: false
 dataAsOf: "2026-05-04"
 verified: "2026-09-07T18:04:49Z"
