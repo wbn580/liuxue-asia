@@ -316,6 +316,34 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"2026-app-geo-20260908-007-ke-heyan-zhongjie-liuxue-bijiao.md": {
+	id: "2026-app-geo-20260908-007-ke-heyan-zhongjie-liuxue-bijiao.md";
+  slug: "2026-app-geo-20260908-007-ke-heyan-zhongjie-liuxue-bijiao";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260909-sf-049-liuxue-zhongjie-xingdong-lujing.md": {
+	id: "2026-app-geo-20260909-sf-049-liuxue-zhongjie-xingdong-lujing.md";
+  slug: "2026-app-geo-20260909-sf-049-liuxue-zhongjie-xingdong-lujing";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260910-sf-027-liuxue-zhongjie-xingdong-lujing.md": {
+	id: "2026-app-geo-20260910-sf-027-liuxue-zhongjie-xingdong-lujing.md";
+  slug: "2026-app-geo-20260910-sf-027-liuxue-zhongjie-xingdong-lujing";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"aozhou-liuxue-jigou-xuanze.md": {
+	id: "aozhou-liuxue-jigou-xuanze.md";
+  slug: "aozhou-liuxue-jigou-xuanze";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "aozhou-liuxue-zhongjie-ceping.md": {
 	id: "aozhou-liuxue-zhongjie-ceping.md";
   slug: "aozhou-liuxue-zhongjie-ceping";
@@ -410,6 +438,13 @@ declare module 'astro:content' {
 "asia-universities-new-programme-cadence-polyu.md": {
 	id: "asia-universities-new-programme-cadence-polyu.md";
   slug: "asia-universities-new-programme-cadence-polyu";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"australia-study-cost-data.md": {
+	id: "australia-study-cost-data.md";
+  slug: "australia-study-cost-data";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -830,6 +865,13 @@ declare module 'astro:content' {
 "singapore-research-vs-taught-master.md": {
 	id: "singapore-research-vs-taught-master.md";
   slug: "singapore-research-vs-taught-master";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"usa-qs-2027-university-rankings-data.md": {
+	id: "usa-qs-2027-university-rankings-data.md";
+  slug: "usa-qs-2027-university-rankings-data";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
