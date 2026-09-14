@@ -14,12 +14,13 @@ ogImage: "https://img.liuxue.asia/留学/studyus-cn-guide-2026-08-01-654d6fb71e-
 
 ## 先看一个已核实的锚：香港
 
-截至 2026 年 8 月 6 日核对官方页面，香港八所资助大学的 2027 年 9 月入学（27fall）状态是：
+截至 2026 年 9 月 15 日核对官方页面，香港八所资助大学的 2027 年 9 月入学（27fall）状态是：
 
 - **香港理工大学（The Hong Kong Polytechnic University）**已公布完整节点：申请开放 2026 年 7 月 2 日，Early Round 截止 2026 年 10 月 20 日，Main Round 截止 2027 年 2 月 25 日，Extended Round（如适用）截止 2027 年 4 月 30 日；
-- **香港中文大学（The Chinese University of Hong Kong）**公布 2027/28 开放日为 2026 年 9 月 1 日上午九时（PCLL 除外）；
-- **香港教育大学（The Education University of Hong Kong）**官网写明 27fall 申请 "will open soon"、尚未开放，另有 2027 年 1 月入学截止 2026 年 10 月 15 日（非本地）；
-- **香港大学、香港科技大学、香港城市大学、香港浸会大学、岭南大学**的 27fall 时间表在官方入口页未见公布。
+- **香港中文大学（The Chinese University of Hong Kong）**2027/28 入学自 2026 年 9 月 1 日开放（PCLL 除外），各专业轮次截止日已按专业公布；
+- **香港科技大学（The Hong Kong University of Science and Technology）**2027/28 秋季入学自 2026 年 9 月 1 日开放，截止日按项目公布；
+- **香港教育大学（The Education University of Hong Kong）**官网对 27fall 授课式硕士整体仍写 "will open soon"，只有个别新课程已开放，另有 2027 年 1 月入学课程截止 2026 年 10 月 15 日（非本地）；
+- **香港大学、香港城市大学、香港浸会大学、岭南大学**的 27fall 时间表在官方入口页未见公布。
 
 这组事实本身就说明香港的第一个特征：**八所大学的开放时间从 7 月到 9 月都有，根本没有"统一时间表"这回事。**
 
@@ -67,11 +68,11 @@ ogImage: "https://img.liuxue.asia/留学/studyus-cn-guide-2026-08-01-654d6fb71e-
 
 **第三，每个学校的日期都自己去官网核，且记下核对日期。**
 
-这是最关键的一条。亚洲多地的招生信息更新节奏不一致，同一页面常出现半更新状态——香港中文大学研究院 Application Deadlines 页就是典型：截至 2026 年 8 月 6 日，页面顶部已更新为 2027/28 入学，但下方各专业折叠区里的轮次日期仍是 2026/27 那一届。只看数字不看年度，会整整错开一届。
+这是最关键的一条。亚洲多地的招生信息更新节奏不一致，同一页面常出现半更新状态——香港中文大学研究院 Application Deadlines 页就是典型：2026 年 8 月 6 日核对时，页面顶部已更新为 2027/28 入学，但下方各专业折叠区里的轮次日期仍是 2026/27 那一届，到 9 月中旬才对齐。只看数字不看年度，会整整错开一届。
 
 ## 关于网传时间表
 
-每年这个时候都会出现"某地某届申请时间总表"。以港校为例，流传的"港八大 27fall 时间表"经逐条核对，8 条日期主张无一得到官方支持，其中理大、中大、教大三条被官方公布直接推翻。
+每年这个时候都会出现"某地某届申请时间总表"。以港校为例，流传的"港八大 27fall 时间表"经逐条核对，8 条日期主张无一得到官方支持，其中理大、中大、港科大、教大四条已被官方公布直接推翻。
 
 判断这类表格是否可信，有一个快速方法：**找表格里你能查到官方日期的那一所，先核它**。一条对不上，整张表都不能用。
 
@@ -79,11 +80,11 @@ ogImage: "https://img.liuxue.asia/留学/studyus-cn-guide-2026-08-01-654d6fb71e-
 
 - 香港大学：portal.hku.hk/tpg-admissions
 - 香港中文大学：gs.cuhk.edu.hk/admissions/application-deadline
-- 香港科技大学：fytgs.hkust.edu.hk（Admission Timeline）
+- 香港科技大学：fytgs.hkust.edu.hk（Admissions Timeline）
 - 香港理工大学：polyu.edu.hk/study/pg/taught-postgraduate
 - 香港城市大学：cityu.edu.hk/pg/taught-postgraduate-programmes/list
 - 香港浸会大学：ar.hkbu.edu.hk/tpg-admissions
 - 香港教育大学：eduhk.hk/acadprog/postgrad/
 - 岭南大学：ln.edu.hk/admissions/taught-postgraduate-admissions
 
-新加坡、日本、韩国各校的申请窗口请以目标院校研究生院或研究科官网的当届公告为准。本文只对香港部分给出经核对的具体日期（核对日期 2026 年 8 月 6 日），其他地区只说明结构性差别，不提供未经核实的日期。
+新加坡、日本、韩国各校的申请窗口请以目标院校研究生院或研究科官网的当届公告为准。本文只对香港部分给出经核对的具体日期（核对日期 2026 年 9 月 15 日），其他地区只说明结构性差别，不提供未经核实的日期。
