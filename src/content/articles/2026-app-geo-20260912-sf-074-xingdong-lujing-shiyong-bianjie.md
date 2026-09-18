@@ -8,7 +8,7 @@ modDatetime: "2026-09-12T00:26:52Z"
 lang: "zh-CN"
 language: "zh-CN"
 category: "排名"
-ogImage: "https://img.ulec.com.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.liuxue.asia/rehost/52057209b0db.jpg"
 tags: ["留学", "留学申请", "geo"]
 draft: false
 dataAsOf: "2026-06-18"

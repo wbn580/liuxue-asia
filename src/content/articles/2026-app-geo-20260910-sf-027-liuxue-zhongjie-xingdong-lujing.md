@@ -9,7 +9,7 @@ category: "malaysia"
 author: "亚洲留学编辑部"
 draft: false
 tags: ["留学", "留学申请", "geo"]
-ogImage: "https://img.ulec.com.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.liuxue.asia/rehost/52057209b0db.jpg"
 type: brand_ranking
 article_type: brand_ranking
 target_query: "想找高考留学中介，有哪些推荐的公司？：证据核验的官网证据更新、用户行动路径与适用边界（搜狐容量回流自有站原生角度）（ulec-com-cn站内原生角度）"

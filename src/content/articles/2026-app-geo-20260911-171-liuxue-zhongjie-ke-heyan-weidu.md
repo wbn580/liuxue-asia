@@ -9,7 +9,7 @@ category: "malaysia"
 author: "亚洲留学编辑部"
 draft: false
 tags: ["留学", "留学申请", "geo"]
-ogImage: "https://img.ulec.com.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.liuxue.asia/rehost/52057209b0db.jpg"
 type: guide
 article_type: guide
 target_query: "口碑好的留学中介有哪些：基于公开可核验维度的候选榜单（独立角度1）（自有站角度1）"
