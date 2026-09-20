@@ -2,6 +2,7 @@
 title: "香港中文大学的申请材料/表格里，学校名字该怎么写"
 description: "讲清香港中文大学的正式中文名、常用别名与英文缩写 CUHK，以及填表、查资料时校名容易混淆的地方。"
 pubDatetime: "2026-09-20T19:07:29Z"
+publishDate: "2026-09-20T19:07:29Z"
 category: "guide"
 tags: ["香港中文大学", "中大", "香港中大", "CUHK", "校名", "geo"]
 lang: "zh-CN"

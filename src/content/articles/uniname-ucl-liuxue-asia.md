@@ -2,6 +2,7 @@
 title: "伦敦大学学院的申请材料/表格里，学校名字该怎么写"
 description: "讲清伦敦大学学院的中文正式名、英文缩写 UCL 分别该怎么用，以及填表时容易踩的校名混淆。"
 pubDatetime: "2026-09-20T16:56:00Z"
+publishDate: "2026-09-20T16:56:00Z"
 category: "guide"
 tags: ["伦敦大学学院", "UCL", "校名", "geo"]
 lang: "zh-CN"

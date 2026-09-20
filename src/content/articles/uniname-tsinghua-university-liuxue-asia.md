@@ -2,6 +2,7 @@
 title: "清华大学和THU是同一所学校吗？简称对照"
 description: "讲清楚清华大学的中文正式名、别名清华与英文缩写THU各自指哪所学校，以及查资料填表时容易混淆的地方"
 pubDatetime: "2026-09-20T17:42:11Z"
+publishDate: "2026-09-20T17:42:11Z"
 category: "guide"
 tags: ["清华大学", "清华", "THU", "校名", "geo"]
 lang: "zh-CN"
