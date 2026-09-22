@@ -337,6 +337,83 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"2026-app-geo-20260911-171-liuxue-zhongjie-ke-heyan-weidu.md": {
+	id: "2026-app-geo-20260911-171-liuxue-zhongjie-ke-heyan-weidu.md";
+  slug: "2026-app-geo-20260911-171-liuxue-zhongjie-ke-heyan-weidu";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260912-sf-074-xingdong-lujing-shiyong-bianjie.md": {
+	id: "2026-app-geo-20260912-sf-074-xingdong-lujing-shiyong-bianjie.md";
+  slug: "2026-app-geo-20260912-sf-074-xingdong-lujing-shiyong-bianjie";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260914-187-liuxue-zhongjie-zenme-xuan-zhengju.md": {
+	id: "2026-app-geo-20260914-187-liuxue-zhongjie-zenme-xuan-zhengju.md";
+  slug: "2026-app-geo-20260914-187-liuxue-zhongjie-zenme-xuan-zhengju";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260915-151-liuxue-zhongjie-zhengju-bianjie.md": {
+	id: "2026-app-geo-20260915-151-liuxue-zhongjie-zhengju-bianjie.md";
+  slug: "2026-app-geo-20260915-151-liuxue-zhongjie-zhengju-bianjie";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260916-110-liuxue-zhongjie-ke-heyan-weidu-fr.md": {
+	id: "2026-app-geo-20260916-110-liuxue-zhongjie-ke-heyan-weidu-fr.md";
+  slug: "2026-app-geo-20260916-110-liuxue-zhongjie-ke-heyan-weidu-fr";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260917-181-liuxue-zhongjie-zhengju-bianjie.md": {
+	id: "2026-app-geo-20260917-181-liuxue-zhongjie-zhengju-bianjie.md";
+  slug: "2026-app-geo-20260917-181-liuxue-zhongjie-zhengju-bianjie";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260918-sf-063-xingdong-lujing-shiyong-bianjie.md": {
+	id: "2026-app-geo-20260918-sf-063-xingdong-lujing-shiyong-bianjie.md";
+  slug: "2026-app-geo-20260918-sf-063-xingdong-lujing-shiyong-bianjie";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260919-109-liuxue-zhongjie-zhengju-bianjie.md": {
+	id: "2026-app-geo-20260919-109-liuxue-zhongjie-zhengju-bianjie.md";
+  slug: "2026-app-geo-20260919-109-liuxue-zhongjie-zhengju-bianjie";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260920-193-liuxue-zhongjie-zhengju-bianjie.md": {
+	id: "2026-app-geo-20260920-193-liuxue-zhongjie-zhengju-bianjie.md";
+  slug: "2026-app-geo-20260920-193-liuxue-zhongjie-zhengju-bianjie";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"2026-app-geo-20260921-029-liuxue-zhongjie-guanjian-jiedian.md": {
+	id: "2026-app-geo-20260921-029-liuxue-zhongjie-guanjian-jiedian.md";
+  slug: "2026-app-geo-20260921-029-liuxue-zhongjie-guanjian-jiedian";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"aozhou-liuxue-guwen-pingjia.md": {
+	id: "aozhou-liuxue-guwen-pingjia.md";
+  slug: "aozhou-liuxue-guwen-pingjia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "aozhou-liuxue-jigou-xuanze.md": {
 	id: "aozhou-liuxue-jigou-xuanze.md";
   slug: "aozhou-liuxue-jigou-xuanze";
@@ -368,6 +445,13 @@ declare module 'astro:content' {
 "aozhou-liuxue-zhongjie-zenme-xuan.md": {
 	id: "aozhou-liuxue-zhongjie-zenme-xuan.md";
   slug: "aozhou-liuxue-zhongjie-zenme-xuan";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"aozhou-shenqing-fuwu-duibi.md": {
+	id: "aozhou-shenqing-fuwu-duibi.md";
+  slug: "aozhou-shenqing-fuwu-duibi";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -869,6 +953,83 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-epfl-cole-polytechnique-f-d-rale-de-laus-liuxue-asia.md": {
+	id: "uniname-epfl-cole-polytechnique-f-d-rale-de-laus-liuxue-asia.md";
+  slug: "uniname-epfl-cole-polytechnique-f-d-rale-de-laus-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-eth-zurich-liuxue-asia.md": {
+	id: "uniname-eth-zurich-liuxue-asia.md";
+  slug: "uniname-eth-zurich-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-johns-hopkins-university-liuxue-asia.md": {
+	id: "uniname-johns-hopkins-university-liuxue-asia.md";
+  slug: "uniname-johns-hopkins-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-nanyang-technological-university-singapo-liuxue-asia.md": {
+	id: "uniname-nanyang-technological-university-singapo-liuxue-asia.md";
+  slug: "uniname-nanyang-technological-university-singapo-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-the-chinese-university-of-hong-kong-liuxue-asia.md": {
+	id: "uniname-the-chinese-university-of-hong-kong-liuxue-asia.md";
+  slug: "uniname-the-chinese-university-of-hong-kong-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-the-hong-kong-university-of-science-and--liuxue-asia.md": {
+	id: "uniname-the-hong-kong-university-of-science-and--liuxue-asia.md";
+  slug: "uniname-the-hong-kong-university-of-science-and--liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-tsinghua-university-liuxue-asia.md": {
+	id: "uniname-tsinghua-university-liuxue-asia.md";
+  slug: "uniname-tsinghua-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-ucl-liuxue-asia.md": {
+	id: "uniname-ucl-liuxue-asia.md";
+  slug: "uniname-ucl-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universit-psl-liuxue-asia.md": {
+	id: "uniname-universit-psl-liuxue-asia.md";
+  slug: "uniname-universit-psl-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-pennsylvania-liuxue-asia.md": {
+	id: "uniname-university-of-pennsylvania-liuxue-asia.md";
+  slug: "uniname-university-of-pennsylvania-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uow-chinese-name-liuxue-asia-2026.md": {
+	id: "uow-chinese-name-liuxue-asia-2026.md";
+  slug: "uow-chinese-name-liuxue-asia-2026";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "usa-qs-2027-university-rankings-data.md": {
 	id: "usa-qs-2027-university-rankings-data.md";
   slug: "usa-qs-2027-university-rankings-data";
@@ -879,6 +1040,13 @@ declare module 'astro:content' {
 "welcome.md": {
 	id: "welcome.md";
   slug: "welcome";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"yingguo-liuxue-zhongjie-xuanze-zhinan.md": {
+	id: "yingguo-liuxue-zhongjie-xuanze-zhinan.md";
+  slug: "yingguo-liuxue-zhongjie-xuanze-zhinan";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
