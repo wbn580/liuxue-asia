@@ -1,37 +1,41 @@
 ---
-title: "国王学院有常用英文缩写吗？英文校名怎么写"
-description: "讲清 King's College 的中文名、别名与英文缩写，以及填表查资料时怎么避免和其他国王学院类校名搞混。"
-pubDatetime: "2026-09-22T07:49:36Z"
-publishDate: "2026-09-22T07:49:36Z"
-modDatetime: "2026-09-22T16:11:19Z"
+title: "KCL到底是哪所大学？看到这个缩写别搞混"
+description: "本文帮你厘清 KCL、King's College、国王学院分别指哪所大学，并说明查资料、填申请表时如何避免把名字用错或混淆。"
+pubDatetime: "2026-09-22T18:46:56Z"
+publishDate: "2026-09-22T18:46:56Z"
+modDatetime: "2026-09-22T18:46:56Z"
 category: "guide"
-tags: ["King's College", "国王学院", "校名", "geo"]
+tags: ["King's College", "国王学院", "KCL", "校名", "geo"]
 lang: "zh-CN"
 slug: "uniname-king-s-college-london-liuxue-asia"
 ---
 
-## King's College 指的就是 King's College London
+## KCL 指的是哪所学校
 
-在留学申请和查资料时，你会看到英文校名写的是 King's College London，而中文里常直接叫它「King's College」。这两个指的是同一所学校：英文全称是 King's College London，位于英国伦敦。
+KCL 是 King's College London 的英文缩写，取的是 King's、College、London 三个词的首字母。它对应的中文现行正式名称是 King's College，日常也常被称为国王学院。也就是说，看到 KCL 这个缩写，指的就是这所英文全称 King's College London 的学校。
 
-也就是说，当你在中文材料里看到「King's College」这个写法，它对应的是英文的 King's College London，不是别的什么机构。中文正式名称就是 King's College，英文全称则是 King's College London，两者一一对应。
+需要留意的是，中文名「King's College」直译过来就是「国王学院」，所以这个别名和正式中文名说的是同一所学校，只是叫法不同。三者之间的关系很简单：英文缩写 KCL、英文全称 King's College London、中文 King's College（国王学院），都是同一所学校的不同写法。
 
-## 国王学院这个俗称也指它
+## 中文名为何没有"伦敦"二字
 
-除了「King's College」这个中文写法，你还会遇到「国王学院」这个俗称。它是同一所学校的另一个中文叫法，在论坛、公众号、申请交流里都常出现。
+一个容易让人犯嘀咕的地方是：英文全称里明明有 London（伦敦），但中文正式名只写 King's College（国王学院），没有把"伦敦"带进去。这不是漏写，而是这所学校沿用下来的中文叫法。
 
-所以看到「King's College」或「国王学院」，只要语境是英国、伦敦相关的留学内容，基本都指向 King's College London 这一所。两个中文叫法可以混用，但都对应同一个英文全称。
+正因为中文名不带地名，单独看到「国王学院」或「King's College」时，它指的就是 King's College London。但反过来要注意：英文里叫 King's College 的机构并不止这一家，例如剑桥大学旗下就有一个 King's College。所以凡是需要精确指向的时候，一定要把 London 补上，写成完整的 King's College London，这样才不会和别的同名机构混为一谈。
 
-## 它没有常用的英文缩写
+## 三个名字分别在什么场合用
 
-需要特别提醒的是，这所学校目前没有广泛通用的英文缩写。日常交流里偶尔有人用简称，但并没有一个被学校官方和申请系统普遍采用、公认一致的缩写写法。
+日常聊天、论坛发帖、经验分享里，大家习惯用 KCL 这个缩写，打字快、辨识度也够，是三者中最常见的非正式写法。
 
-因此，在正式场合——尤其是网申系统、成绩单、推荐信、签证材料里——不要自己编一个缩写往上填。稳妥的做法是直接写完整的英文校名 King's College London。自创缩写或填错写法，可能让招生方或审核方对不上学校记录。
+正式场合要用英文全称 King's College London。申请表格、官方文件、成绩单、推荐信抬头这类地方，都应该写完整的英文校名，不建议用缩写代替。
 
-## 填表查资料时注意别搞混
+中文内容里，King's College 和 国王学院 都可以用，前者偏书面、后者更口语，二者等价。如果你在中文材料里需要对应英文，记得在正式字段里回填 King's College London，而不是只留一个 King's College。
 
-「King's College」这个名字本身不算独一无二，英语世界里叫「King's College」的院校不止一所，比如剑桥大学旗下就有一个 King's College。所以光写「King's College」并不足以定位到伦敦这所。
+## 查资料和填表时的几点提醒
 
-查资料和填表时记住三点：第一，正式名称一定带 London，即 King's College London；第二，中文写「King's College」或「国王学院」都可以，但要和英文全称对应清楚；第三，投递申请系统时用完整英文校名，别图省事用缩写。
+第一，填网申系统时，学校名称一栏优先照着学校官网给出的英文全称 King's College London 来写，不要自作主张改成「伦敦国王学院」之类的中文式翻译，系统通常只认官方英文校名。
+
+第二，搜资料时如果只用「国王学院」或「King's College」当关键词，结果可能混进其他同名机构。想精准找到这所学校，搜索词加上 London 或 KCL 会更稳。
+
+第三，中文别名 国王学院 和正式中文名 King's College 指同一所学校，但不要因此以为它只是某所大学底下的一个学院。用它指代 King's College London 是没问题的，真正要避开的混淆是和其他也叫 King's College 的机构搞混。
 
 具体项目信息以学校官网当年发布为准。
