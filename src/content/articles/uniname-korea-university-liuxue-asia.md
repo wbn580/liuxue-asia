@@ -1,9 +1,9 @@
 ---
-title: "高丽大学到底是哪所大学？看到这个缩写别搞混"
+title: "高丽大学有常用英文缩写吗？英文校名怎么写"
 description: "高丽大学的中文名、别名高大与英文缩写怎么用，申请填表时如何避免把校名和缩写搞混，一篇讲清身份识别。"
 pubDatetime: "2026-09-22T03:21:09Z"
 publishDate: "2026-09-22T03:21:09Z"
-modDatetime: "2026-09-22T03:21:09Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["高丽大学", "高大", "校名", "geo"]
 lang: "zh-CN"

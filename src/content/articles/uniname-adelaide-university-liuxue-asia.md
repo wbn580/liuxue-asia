@@ -1,9 +1,9 @@
 ---
-title: "Adelaide University和Adelaide University是同一所学校吗？简称对照"
+title: "阿德莱德大学有常用简称吗？中英文校名对照"
 description: 理清 Adelaide University、University of Adelaide 与阿德莱德大学的关系，说明这所学校的中文名、英文缩写与常用别名，以及填表查资料时注意什么。
 pubDatetime: "2026-09-22T09:50:30Z"
 publishDate: "2026-09-22T09:50:30Z"
-modDatetime: "2026-09-22T09:50:30Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["Adelaide University", "University of Adelaide", "阿德莱德大学", "校名", "geo"]
 lang: "zh-CN"

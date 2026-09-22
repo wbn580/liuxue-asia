@@ -1,9 +1,9 @@
 ---
-title: "延世大学和延世大学是同一所学校吗？简称对照"
+title: "延世大学有常用简称吗？中英文校名对照"
 description: "讲清延世大学的中文名与英文校名Yonsei University的对应关系，以及查资料填表时如何避免校名混淆。"
 pubDatetime: "2026-09-22T08:07:11Z"
 publishDate: "2026-09-22T08:07:11Z"
-modDatetime: "2026-09-22T08:07:11Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["延世大学", "校名", "geo"]
 lang: "zh-CN"

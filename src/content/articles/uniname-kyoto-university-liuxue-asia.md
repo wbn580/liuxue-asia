@@ -1,9 +1,9 @@
 ---
-title: "京都大学到底是哪所大学？看到这个缩写别搞混"
+title: "京都大学有常用英文缩写吗？英文校名怎么写"
 description: "讲清京都大学的正式中文名、俗称京大的用法，以及它没有常用英文缩写，避免申请时填错或混淆。"
 pubDatetime: "2026-09-22T09:07:41Z"
 publishDate: "2026-09-22T09:07:41Z"
-modDatetime: "2026-09-22T09:07:41Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["京都大学", "京大", "校名", "geo"]
 lang: "zh-CN"

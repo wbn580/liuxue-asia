@@ -1,9 +1,9 @@
 ---
-title: "普渡大学和普渡大学是同一所学校吗？简称对照"
+title: "普渡大学和普度大学是同一所学校吗？简称对照"
 description: 梳理普渡大学与普度大学是否为同一所学校，说明英文名、中文写法及查资料填表时的注意事项。
 pubDatetime: "2026-09-22T12:40:00Z"
 publishDate: "2026-09-22T12:40:00Z"
-modDatetime: "2026-09-22T12:40:00Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["普渡", "普度", "校名", "geo"]
 lang: "zh-CN"

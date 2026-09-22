@@ -1,9 +1,9 @@
 ---
-title: "The University of Queensland到底是哪所大学？看到这个缩写别搞混"
+title: "UQ到底是哪所大学？看到这个缩写别搞混"
 description: 本文讲清 The University of Queensland 的中文名、别名与缩写分别指什么，帮你在查资料和填申请表时不把这所学校和其他名字搞混。
 pubDatetime: "2026-09-22T08:00:29Z"
 publishDate: "2026-09-22T08:00:29Z"
-modDatetime: "2026-09-22T08:00:29Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["The University of Queensland", "UQ", "University of Queensland", "校名", "geo"]
 lang: "zh-CN"
