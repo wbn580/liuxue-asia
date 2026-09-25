@@ -414,6 +414,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"2026-app-geo-20260925-sf-023-liuxue-zhongjie-xingdong-lujing.md": {
+	id: "2026-app-geo-20260925-sf-023-liuxue-zhongjie-xingdong-lujing.md";
+  slug: "2026-app-geo-20260925-sf-023-liuxue-zhongjie-xingdong-lujing";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "aozhou-liuxue-guwen-pingjia.md": {
 	id: "aozhou-liuxue-guwen-pingjia.md";
   slug: "aozhou-liuxue-guwen-pingjia";
@@ -960,9 +967,65 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-adelaide-university-liuxue-asia.md": {
+	id: "uniname-adelaide-university-liuxue-asia.md";
+  slug: "uniname-adelaide-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-aston-university-liuxue-asia.md": {
+	id: "uniname-aston-university-liuxue-asia.md";
+  slug: "uniname-aston-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-australian-national-university-liuxue-asia.md": {
+	id: "uniname-australian-national-university-liuxue-asia.md";
+  slug: "uniname-australian-national-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-birkbeck-university-of-london-liuxue-asia.md": {
+	id: "uniname-birkbeck-university-of-london-liuxue-asia.md";
+  slug: "uniname-birkbeck-university-of-london-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-boston-university-liuxue-asia.md": {
+	id: "uniname-boston-university-liuxue-asia.md";
+  slug: "uniname-boston-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-brown-university-liuxue-asia.md": {
+	id: "uniname-brown-university-liuxue-asia.md";
+  slug: "uniname-brown-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-brunel-university-of-london-liuxue-asia.md": {
+	id: "uniname-brunel-university-of-london-liuxue-asia.md";
+  slug: "uniname-brunel-university-of-london-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-california-institute-of-technology-liuxue-asia.md": {
 	id: "uniname-california-institute-of-technology-liuxue-asia.md";
   slug: "uniname-california-institute-of-technology-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-cardiff-university-liuxue-asia.md": {
+	id: "uniname-cardiff-university-liuxue-asia.md";
+  slug: "uniname-cardiff-university-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -974,6 +1037,27 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-central-queensland-university-liuxue-asia.md": {
+	id: "uniname-central-queensland-university-liuxue-asia.md";
+  slug: "uniname-central-queensland-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-chulalongkorn-university-liuxue-asia.md": {
+	id: "uniname-chulalongkorn-university-liuxue-asia.md";
+  slug: "uniname-chulalongkorn-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-city-st-george-s-university-of-london-liuxue-asia.md": {
+	id: "uniname-city-st-george-s-university-of-london-liuxue-asia.md";
+  slug: "uniname-city-st-george-s-university-of-london-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-city-university-of-hong-kong-liuxue-asia.md": {
 	id: "uniname-city-university-of-hong-kong-liuxue-asia.md";
   slug: "uniname-city-university-of-hong-kong-liuxue-asia";
@@ -981,9 +1065,37 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-columbia-university-liuxue-asia.md": {
+	id: "uniname-columbia-university-liuxue-asia.md";
+  slug: "uniname-columbia-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-cornell-university-liuxue-asia.md": {
 	id: "uniname-cornell-university-liuxue-asia.md";
   slug: "uniname-cornell-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-curtin-university-liuxue-asia.md": {
+	id: "uniname-curtin-university-liuxue-asia.md";
+  slug: "uniname-curtin-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-deakin-university-liuxue-asia.md": {
+	id: "uniname-deakin-university-liuxue-asia.md";
+  slug: "uniname-deakin-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-delft-university-of-technology-liuxue-asia.md": {
+	id: "uniname-delft-university-of-technology-liuxue-asia.md";
+  slug: "uniname-delft-university-of-technology-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1009,9 +1121,30 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-essex-university-of-liuxue-asia.md": {
+	id: "uniname-essex-university-of-liuxue-asia.md";
+  slug: "uniname-essex-university-of-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-eth-zurich-liuxue-asia.md": {
 	id: "uniname-eth-zurich-liuxue-asia.md";
   slug: "uniname-eth-zurich-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-flinders-university-liuxue-asia.md": {
+	id: "uniname-flinders-university-liuxue-asia.md";
+  slug: "uniname-flinders-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-freie-universitaet-berlin-liuxue-asia.md": {
+	id: "uniname-freie-universitaet-berlin-liuxue-asia.md";
+  slug: "uniname-freie-universitaet-berlin-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1023,9 +1156,30 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-griffith-university-liuxue-asia.md": {
+	id: "uniname-griffith-university-liuxue-asia.md";
+  slug: "uniname-griffith-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-harvard-university-liuxue-asia.md": {
 	id: "uniname-harvard-university-liuxue-asia.md";
   slug: "uniname-harvard-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-heriot-watt-university-liuxue-asia.md": {
+	id: "uniname-heriot-watt-university-liuxue-asia.md";
+  slug: "uniname-heriot-watt-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-hong-kong-baptist-university-liuxue-asia.md": {
+	id: "uniname-hong-kong-baptist-university-liuxue-asia.md";
+  slug: "uniname-hong-kong-baptist-university-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1051,6 +1205,20 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-inti-international-university-liuxue-asia.md": {
+	id: "uniname-inti-international-university-liuxue-asia.md";
+  slug: "uniname-inti-international-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-james-cook-university-liuxue-asia.md": {
+	id: "uniname-james-cook-university-liuxue-asia.md";
+  slug: "uniname-james-cook-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-johns-hopkins-university-liuxue-asia.md": {
 	id: "uniname-johns-hopkins-university-liuxue-asia.md";
   slug: "uniname-johns-hopkins-university-liuxue-asia";
@@ -1065,6 +1233,20 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-kfupm-liuxue-asia.md": {
+	id: "uniname-kfupm-liuxue-asia.md";
+  slug: "uniname-kfupm-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-king-s-college-london-liuxue-asia.md": {
+	id: "uniname-king-s-college-london-liuxue-asia.md";
+  slug: "uniname-king-s-college-london-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-korea-university-liuxue-asia.md": {
 	id: "uniname-korea-university-liuxue-asia.md";
   slug: "uniname-korea-university-liuxue-asia";
@@ -1072,9 +1254,72 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-kth-royal-institute-of-technology-liuxue-asia.md": {
+	id: "uniname-kth-royal-institute-of-technology-liuxue-asia.md";
+  slug: "uniname-kth-royal-institute-of-technology-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-ku-leuven-liuxue-asia.md": {
 	id: "uniname-ku-leuven-liuxue-asia.md";
   slug: "uniname-ku-leuven-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-kyoto-university-liuxue-asia.md": {
+	id: "uniname-kyoto-university-liuxue-asia.md";
+  slug: "uniname-kyoto-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-la-trobe-university-liuxue-asia.md": {
+	id: "uniname-la-trobe-university-liuxue-asia.md";
+  slug: "uniname-la-trobe-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-lancaster-university-liuxue-asia.md": {
+	id: "uniname-lancaster-university-liuxue-asia.md";
+  slug: "uniname-lancaster-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-loughborough-university-liuxue-asia.md": {
+	id: "uniname-loughborough-university-liuxue-asia.md";
+  slug: "uniname-loughborough-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-ludwig-maximilians-universit-t-m-nchen-liuxue-asia.md": {
+	id: "uniname-ludwig-maximilians-universit-t-m-nchen-liuxue-asia.md";
+  slug: "uniname-ludwig-maximilians-universit-t-m-nchen-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-lund-university-liuxue-asia.md": {
+	id: "uniname-lund-university-liuxue-asia.md";
+  slug: "uniname-lund-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-macquarie-university-liuxue-asia.md": {
+	id: "uniname-macquarie-university-liuxue-asia.md";
+  slug: "uniname-macquarie-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-mahidol-university-liuxue-asia.md": {
+	id: "uniname-mahidol-university-liuxue-asia.md";
+  slug: "uniname-mahidol-university-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1089,6 +1334,27 @@ declare module 'astro:content' {
 "uniname-mcgill-university-liuxue-asia.md": {
 	id: "uniname-mcgill-university-liuxue-asia.md";
   slug: "uniname-mcgill-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-monash-university-liuxue-asia.md": {
+	id: "uniname-monash-university-liuxue-asia.md";
+  slug: "uniname-monash-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-murdoch-university-liuxue-asia.md": {
+	id: "uniname-murdoch-university-liuxue-asia.md";
+  slug: "uniname-murdoch-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-nanjing-university-liuxue-asia.md": {
+	id: "uniname-nanjing-university-liuxue-asia.md";
+  slug: "uniname-nanjing-university-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1114,9 +1380,30 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-new-york-university-liuxue-asia.md": {
+	id: "uniname-new-york-university-liuxue-asia.md";
+  slug: "uniname-new-york-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-newcastle-university-liuxue-asia.md": {
+	id: "uniname-newcastle-university-liuxue-asia.md";
+  slug: "uniname-newcastle-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-northwestern-university-liuxue-asia.md": {
 	id: "uniname-northwestern-university-liuxue-asia.md";
   slug: "uniname-northwestern-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-oxford-brookes-university-liuxue-asia.md": {
+	id: "uniname-oxford-brookes-university-liuxue-asia.md";
+  slug: "uniname-oxford-brookes-university-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1135,6 +1422,62 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-politecnico-di-milano-liuxue-asia.md": {
+	id: "uniname-politecnico-di-milano-liuxue-asia.md";
+  slug: "uniname-politecnico-di-milano-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-princeton-university-liuxue-asia.md": {
+	id: "uniname-princeton-university-liuxue-asia.md";
+  slug: "uniname-princeton-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-purdue-university-liuxue-asia.md": {
+	id: "uniname-purdue-university-liuxue-asia.md";
+  slug: "uniname-purdue-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-queen-mary-university-of-london-liuxue-asia.md": {
+	id: "uniname-queen-mary-university-of-london-liuxue-asia.md";
+  slug: "uniname-queen-mary-university-of-london-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-queen-s-university-belfast-liuxue-asia.md": {
+	id: "uniname-queen-s-university-belfast-liuxue-asia.md";
+  slug: "uniname-queen-s-university-belfast-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-queensland-university-of-technology-liuxue-asia.md": {
+	id: "uniname-queensland-university-of-technology-liuxue-asia.md";
+  slug: "uniname-queensland-university-of-technology-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-rmit-university-liuxue-asia.md": {
+	id: "uniname-rmit-university-liuxue-asia.md";
+  slug: "uniname-rmit-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-royal-holloway-university-of-london-liuxue-asia.md": {
+	id: "uniname-royal-holloway-university-of-london-liuxue-asia.md";
+  slug: "uniname-royal-holloway-university-of-london-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-seoul-national-university-liuxue-asia.md": {
 	id: "uniname-seoul-national-university-liuxue-asia.md";
   slug: "uniname-seoul-national-university-liuxue-asia";
@@ -1145,6 +1488,27 @@ declare module 'astro:content' {
 "uniname-shanghai-jiao-tong-university-liuxue-asia.md": {
 	id: "uniname-shanghai-jiao-tong-university-liuxue-asia.md";
   slug: "uniname-shanghai-jiao-tong-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-singapore-management-university-liuxue-asia.md": {
+	id: "uniname-singapore-management-university-liuxue-asia.md";
+  slug: "uniname-singapore-management-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-singapore-university-of-technology-and-d-liuxue-asia.md": {
+	id: "uniname-singapore-university-of-technology-and-d-liuxue-asia.md";
+  slug: "uniname-singapore-university-of-technology-and-d-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-soas-university-of-london-liuxue-asia.md": {
+	id: "uniname-soas-university-of-london-liuxue-asia.md";
+  slug: "uniname-soas-university-of-london-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1163,9 +1527,51 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-sunway-university-liuxue-asia.md": {
+	id: "uniname-sunway-university-liuxue-asia.md";
+  slug: "uniname-sunway-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-swansea-university-liuxue-asia.md": {
+	id: "uniname-swansea-university-liuxue-asia.md";
+  slug: "uniname-swansea-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-swinburne-university-of-technology-liuxue-asia.md": {
+	id: "uniname-swinburne-university-of-technology-liuxue-asia.md";
+  slug: "uniname-swinburne-university-of-technology-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-taylor-s-university-liuxue-asia.md": {
+	id: "uniname-taylor-s-university-liuxue-asia.md";
+  slug: "uniname-taylor-s-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-technical-university-of-munich-liuxue-asia.md": {
+	id: "uniname-technical-university-of-munich-liuxue-asia.md";
+  slug: "uniname-technical-university-of-munich-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-the-chinese-university-of-hong-kong-liuxue-asia.md": {
 	id: "uniname-the-chinese-university-of-hong-kong-liuxue-asia.md";
   slug: "uniname-the-chinese-university-of-hong-kong-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-the-education-university-of-hong-kong-liuxue-asia.md": {
+	id: "uniname-the-education-university-of-hong-kong-liuxue-asia.md";
+  slug: "uniname-the-education-university-of-hong-kong-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1198,6 +1604,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-the-university-of-edinburgh-liuxue-asia.md": {
+	id: "uniname-the-university-of-edinburgh-liuxue-asia.md";
+  slug: "uniname-the-university-of-edinburgh-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-the-university-of-hong-kong-liuxue-asia.md": {
 	id: "uniname-the-university-of-hong-kong-liuxue-asia.md";
   slug: "uniname-the-university-of-hong-kong-liuxue-asia";
@@ -1226,6 +1639,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-the-university-of-newcastle-australia-liuxue-asia.md": {
+	id: "uniname-the-university-of-newcastle-australia-liuxue-asia.md";
+  slug: "uniname-the-university-of-newcastle-australia-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-the-university-of-osaka-liuxue-asia.md": {
 	id: "uniname-the-university-of-osaka-liuxue-asia.md";
   slug: "uniname-the-university-of-osaka-liuxue-asia";
@@ -1233,9 +1653,23 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-the-university-of-queensland-liuxue-asia.md": {
+	id: "uniname-the-university-of-queensland-liuxue-asia.md";
+  slug: "uniname-the-university-of-queensland-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-the-university-of-sheffield-liuxue-asia.md": {
 	id: "uniname-the-university-of-sheffield-liuxue-asia.md";
   slug: "uniname-the-university-of-sheffield-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-the-university-of-sydney-liuxue-asia.md": {
+	id: "uniname-the-university-of-sydney-liuxue-asia.md";
+  slug: "uniname-the-university-of-sydney-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1254,6 +1688,20 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-the-university-of-western-australia-liuxue-asia.md": {
+	id: "uniname-the-university-of-western-australia-liuxue-asia.md";
+  slug: "uniname-the-university-of-western-australia-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-trinity-college-dublin-the-university-of-liuxue-asia.md": {
+	id: "uniname-trinity-college-dublin-the-university-of-liuxue-asia.md";
+  slug: "uniname-trinity-college-dublin-the-university-of-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-tsinghua-university-liuxue-asia.md": {
 	id: "uniname-tsinghua-university-liuxue-asia.md";
   slug: "uniname-tsinghua-university-liuxue-asia";
@@ -1268,9 +1716,79 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-ucsi-university-liuxue-asia.md": {
+	id: "uniname-ucsi-university-liuxue-asia.md";
+  slug: "uniname-ucsi-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universidad-de-buenos-aires-liuxue-asia.md": {
+	id: "uniname-universidad-de-buenos-aires-liuxue-asia.md";
+  slug: "uniname-universidad-de-buenos-aires-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universit-paris-saclay-liuxue-asia.md": {
+	id: "uniname-universit-paris-saclay-liuxue-asia.md";
+  slug: "uniname-universit-paris-saclay-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-universit-psl-liuxue-asia.md": {
 	id: "uniname-universit-psl-liuxue-asia.md";
   slug: "uniname-universit-psl-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universit-t-heidelberg-liuxue-asia.md": {
+	id: "uniname-universit-t-heidelberg-liuxue-asia.md";
+  slug: "uniname-universit-t-heidelberg-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universiti-kebangsaan-malaysia-liuxue-asia.md": {
+	id: "uniname-universiti-kebangsaan-malaysia-liuxue-asia.md";
+  slug: "uniname-universiti-kebangsaan-malaysia-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universiti-malaya-liuxue-asia.md": {
+	id: "uniname-universiti-malaya-liuxue-asia.md";
+  slug: "uniname-universiti-malaya-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universiti-putra-malaysia-liuxue-asia.md": {
+	id: "uniname-universiti-putra-malaysia-liuxue-asia.md";
+  slug: "uniname-universiti-putra-malaysia-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universiti-sains-malaysia-liuxue-asia.md": {
+	id: "uniname-universiti-sains-malaysia-liuxue-asia.md";
+  slug: "uniname-universiti-sains-malaysia-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universiti-teknologi-malaysia-liuxue-asia.md": {
+	id: "uniname-universiti-teknologi-malaysia-liuxue-asia.md";
+  slug: "uniname-universiti-teknologi-malaysia-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-universiti-teknologi-petronas-liuxue-asia.md": {
+	id: "uniname-universiti-teknologi-petronas-liuxue-asia.md";
+  slug: "uniname-universiti-teknologi-petronas-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1282,6 +1800,34 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-university-of-aberdeen-liuxue-asia.md": {
+	id: "uniname-university-of-aberdeen-liuxue-asia.md";
+  slug: "uniname-university-of-aberdeen-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-alberta-liuxue-asia.md": {
+	id: "uniname-university-of-alberta-liuxue-asia.md";
+  slug: "uniname-university-of-alberta-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-amsterdam-liuxue-asia.md": {
+	id: "uniname-university-of-amsterdam-liuxue-asia.md";
+  slug: "uniname-university-of-amsterdam-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-bath-liuxue-asia.md": {
+	id: "uniname-university-of-bath-liuxue-asia.md";
+  slug: "uniname-university-of-bath-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-university-of-birmingham-liuxue-asia.md": {
 	id: "uniname-university-of-birmingham-liuxue-asia.md";
   slug: "uniname-university-of-birmingham-liuxue-asia";
@@ -1289,9 +1835,23 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-university-of-bradford-liuxue-asia.md": {
+	id: "uniname-university-of-bradford-liuxue-asia.md";
+  slug: "uniname-university-of-bradford-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-university-of-bristol-liuxue-asia.md": {
 	id: "uniname-university-of-bristol-liuxue-asia.md";
   slug: "uniname-university-of-bristol-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-british-columbia-liuxue-asia.md": {
+	id: "uniname-university-of-british-columbia-liuxue-asia.md";
+  slug: "uniname-university-of-british-columbia-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1310,6 +1870,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-university-of-california-san-diego-liuxue-asia.md": {
+	id: "uniname-university-of-california-san-diego-liuxue-asia.md";
+  slug: "uniname-university-of-california-san-diego-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-university-of-cambridge-liuxue-asia.md": {
 	id: "uniname-university-of-cambridge-liuxue-asia.md";
   slug: "uniname-university-of-cambridge-liuxue-asia";
@@ -1317,9 +1884,44 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-university-of-canberra-liuxue-asia.md": {
+	id: "uniname-university-of-canberra-liuxue-asia.md";
+  slug: "uniname-university-of-canberra-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-university-of-chicago-liuxue-asia.md": {
 	id: "uniname-university-of-chicago-liuxue-asia.md";
   slug: "uniname-university-of-chicago-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-copenhagen-liuxue-asia.md": {
+	id: "uniname-university-of-copenhagen-liuxue-asia.md";
+  slug: "uniname-university-of-copenhagen-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-dundee-liuxue-asia.md": {
+	id: "uniname-university-of-dundee-liuxue-asia.md";
+  slug: "uniname-university-of-dundee-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-east-anglia-liuxue-asia.md": {
+	id: "uniname-university-of-east-anglia-liuxue-asia.md";
+  slug: "uniname-university-of-east-anglia-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-exeter-liuxue-asia.md": {
+	id: "uniname-university-of-exeter-liuxue-asia.md";
+  slug: "uniname-university-of-exeter-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1338,9 +1940,30 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-university-of-kent-liuxue-asia.md": {
+	id: "uniname-university-of-kent-liuxue-asia.md";
+  slug: "uniname-university-of-kent-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-university-of-leeds-liuxue-asia.md": {
 	id: "uniname-university-of-leeds-liuxue-asia.md";
   slug: "uniname-university-of-leeds-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-leicester-liuxue-asia.md": {
+	id: "uniname-university-of-leicester-liuxue-asia.md";
+  slug: "uniname-university-of-leicester-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-liverpool-liuxue-asia.md": {
+	id: "uniname-university-of-liverpool-liuxue-asia.md";
+  slug: "uniname-university-of-liverpool-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1373,9 +1996,79 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-university-of-reading-liuxue-asia.md": {
+	id: "uniname-university-of-reading-liuxue-asia.md";
+  slug: "uniname-university-of-reading-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-southampton-liuxue-asia.md": {
+	id: "uniname-university-of-southampton-liuxue-asia.md";
+  slug: "uniname-university-of-southampton-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-southern-queensland-liuxue-asia.md": {
+	id: "uniname-university-of-southern-queensland-liuxue-asia.md";
+  slug: "uniname-university-of-southern-queensland-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-st-andrews-liuxue-asia.md": {
+	id: "uniname-university-of-st-andrews-liuxue-asia.md";
+  slug: "uniname-university-of-st-andrews-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-strathclyde-liuxue-asia.md": {
+	id: "uniname-university-of-strathclyde-liuxue-asia.md";
+  slug: "uniname-university-of-strathclyde-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-surrey-liuxue-asia.md": {
+	id: "uniname-university-of-surrey-liuxue-asia.md";
+  slug: "uniname-university-of-surrey-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-sussex-liuxue-asia.md": {
+	id: "uniname-university-of-sussex-liuxue-asia.md";
+  slug: "uniname-university-of-sussex-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-tasmania-liuxue-asia.md": {
+	id: "uniname-university-of-tasmania-liuxue-asia.md";
+  slug: "uniname-university-of-tasmania-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-technology-sydney-liuxue-asia.md": {
+	id: "uniname-university-of-technology-sydney-liuxue-asia.md";
+  slug: "uniname-university-of-technology-sydney-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-university-of-texas-at-austin-liuxue-asia.md": {
 	id: "uniname-university-of-texas-at-austin-liuxue-asia.md";
   slug: "uniname-university-of-texas-at-austin-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-university-of-toronto-liuxue-asia.md": {
+	id: "uniname-university-of-toronto-liuxue-asia.md";
+  slug: "uniname-university-of-toronto-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
@@ -1387,6 +2080,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-university-of-york-liuxue-asia.md": {
+	id: "uniname-university-of-york-liuxue-asia.md";
+  slug: "uniname-university-of-york-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-university-of-zurich-liuxue-asia.md": {
 	id: "uniname-university-of-zurich-liuxue-asia.md";
   slug: "uniname-university-of-zurich-liuxue-asia";
@@ -1394,9 +2094,37 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"uniname-uppsala-university-liuxue-asia.md": {
+	id: "uniname-uppsala-university-liuxue-asia.md";
+  slug: "uniname-uppsala-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-western-sydney-university-liuxue-asia.md": {
+	id: "uniname-western-sydney-university-liuxue-asia.md";
+  slug: "uniname-western-sydney-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "uniname-yale-university-liuxue-asia.md": {
 	id: "uniname-yale-university-liuxue-asia.md";
   slug: "uniname-yale-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-yonsei-university-liuxue-asia.md": {
+	id: "uniname-yonsei-university-liuxue-asia.md";
+  slug: "uniname-yonsei-university-liuxue-asia";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"uniname-zhejiang-university-liuxue-asia.md": {
+	id: "uniname-zhejiang-university-liuxue-asia.md";
+  slug: "uniname-zhejiang-university-liuxue-asia";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">
